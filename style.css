@@ -1,0 +1,37 @@
+body {
+  margin:40px auto;
+  max-width: 800px;
+  line-height: 1.6;
+  font-size: 20px;
+  font-family: Garamond, sans-serif;
+  color: #444;
+  padding: 0px 10px
+}
+
+h1, h2, h3 {
+  line-height: 1;
+  font-variant: small-caps;
+  color: #000;
+  margin-top: 0.5em;
+  margin-bottom: -0.2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #06f;
+}
+
+a:visited {
+  color: #c6f;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  text-indent: 2em;
+}
