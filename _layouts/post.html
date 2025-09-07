@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} - Svenska fjällklätterprojektet</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap">
@@ -16,6 +16,11 @@
         <a href="/">Hem</a>
       </span>
       <h1>{{ page.title }}</h1>
+      <p>
+        <span class="author"><a href="mailto:fjallklatterprojektet@gmail.com">{{ page.author }}</a></span>
+        <br>
+        <span class="date">Publicerad {{ page.date | date: "%Y-%m-%d" }}</span>
+      </p>
     </header>
     {{ content }}
   </body>
