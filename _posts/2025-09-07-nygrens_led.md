@@ -4,7 +4,7 @@ title: Nygrens led
 author: Olle Eriksson
 date: 2025-09-07
 type: Turskildring
-summary: Nygrens led till Kebnekaises nordtopp i augusti 2025. Ner via sytoppen och östra leden.
+summary: Nygrens led till Kebnekaises nordtopp i augusti 2025. Ner via Sytoppen och Östra leden.
 permalink: /:title/
 ---
 
