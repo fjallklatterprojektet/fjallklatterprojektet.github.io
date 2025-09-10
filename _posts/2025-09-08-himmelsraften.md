@@ -25,7 +25,7 @@ Efter en stund korsar vi sjön och börja spana efter lämpliga landstigningspla
 
 Lite efter elva styr vi in i en rund, gruskantad vik, går i land och drar upp kajaken bland stenarna på stranden. Jag spänner repen på ryggsäcken och börjar gå. Skogen, som såg ogenomtränglig ut från kajaken, visar sig till min förvåning vara mycket lättgådd. Gamla granar står på artigt avstånd från varandra och lämnar plats för salsliknande rum, sammanbundna av djurstigar, där mossor, ris och ormbunkar pryder golven utan att nämnvärt hindra vår framfart.
 
-{% include image.html url="/assets/images/2025-09-08-himmelsraften/himmelsraften_04.jpg" caption="Vi går i land i en grund, grusig vik och drar upp kajaken bland stenarna. En del av packningen lämnas här för att göra ryggsäckarna lättare inför den stundande stigningen." %}
+{% include image.html url="/assets/images/2025-09-08-himmelsraften/himmelsraften_04.jpg" caption="Vi går i land i en grund, grusig vik och drar upp kajaken bland stenarna. En del av packningen lämnas här för att göra ryggsäckarna lättare inför den stundande stigningen." photo_credit="Ebba Orava" %}
 
 {% include image.html url="/assets/images/2025-09-08-himmelsraften/himmelsraften_05.jpg" caption="Granskogen nedanför Himmelsraften är förvånansvärt ljus och lättvandrad." %}
 
@@ -47,7 +47,7 @@ En stund senare är det Ebba som ger sig iväg uppför en mossig ramp. Jag står
 
 Jag kommer strax upp till standplatsen på en grön hylla under en stor svaplatta. Ebba har redan spanat in nästa replängd och berättar hur hon har tänkt att vi ska fortsätta. Min tur att leda nu. Denna replängd är enastående, luftig och ihållande på fantastisk klippa längs vertikala och diagonala sprickor. Resterande två replängder leder Ebba. Först över hyllor och ramper, genom en liten kamin upp till ett brantare parti, sedan via en aningen motsträvig spricka till en högertravers och vidare till ihållande men trivsam klättring rakt upp i fallinjen. Några gånger hamnar vi fel, får backa och leta oss vidare längs andra vägar, men det är hela tiden välsäkrat och känns aldrig vådligt.
 
-{% include image.html url="/assets/images/2025-09-08-himmelsraften/himmelsraften_09.jpg" caption="Jag pustar ut och njuter av utsikten efter att ha tagit mig igenom ett kort krux i början av andra replängden." %}
+{% include image.html url="/assets/images/2025-09-08-himmelsraften/himmelsraften_09.jpg" caption="Jag pustar ut och njuter av utsikten efter att ha tagit mig igenom ett kort krux i början av andra replängden." photo_credit="Ebba Orava" %}
 
 {% include image.html url="/assets/images/2025-09-08-himmelsraften/himmelsraften_10.jpg" caption="Tredje replängden traverserar vänster längs ramper och genom en liten kamin. Ebba leder snabbt och säkert." %}
 

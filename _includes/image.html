@@ -2,5 +2,10 @@
   <a href="{{ include.url }}">
     <img src="{{ include.url }}" alt="{{ include.caption }}">
   </a>
-  <figcaption>{{ include.caption }}</figcaption>
+  <figcaption>
+    {{ include.caption }}
+    {% if include.photo_credit %}
+      Foto: {{ include.photo_credit }}.
+    {% endif %}
+  </figcaption>
 </figure>
