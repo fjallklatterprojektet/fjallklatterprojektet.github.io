@@ -1,5 +1,8 @@
 title: "Fjällklätterprojektet"
 email: "fjallklatterprojektet@gmail.com"
+instagram_username: "fjallolle"
 description: "Fjällklätterprojektets hemsida"
 baseurl: ""
 url: "https://fjallklatterprojektet.github.io/"
+plugins:
+  - jekyll-feed
