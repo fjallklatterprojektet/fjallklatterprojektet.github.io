@@ -14,9 +14,9 @@
   </head>
   <body>
     <header>
-      <span class="navigation_bar">
+      <nav class="navigation_bar">
         <a href="/">Hem</a>
-      </span>
+      </nav>
       <h1>{{ page.title }}</h1>
       <p>
         <span class="author"><a href="mailto:fjallklatterprojektet@gmail.com">{{ page.author }}</a></span>
@@ -26,11 +26,11 @@
     </header>
     {{ content }}
     <footer>
-      <div class="footer_links">
+      <nav class="footer_links">
         <a href="http://instagram.com/_u/{{ site.instagram_username }}/" aria-label="Instagram"><i class="fa-brands fa-square-instagram"></i></a>
         <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fa fa-square-envelope"></i></a>
         <a href="/feed.xml" aria-label="RSS"><i class="fa-solid fa-square-rss"></i></a>
-      </span>
+      </nav>
     </footer>
   </body>
 </html>
