@@ -154,3 +154,15 @@ figcaption {
   font-size: smaller;
   font-style: italic;
 }
+
+hr {
+  border: none;
+}
+
+hr::before {
+  content: '* * *';
+  font-family: "EB Garamond", serif;
+  font-size: larger;
+  display: block;
+  text-align: center;
+}
