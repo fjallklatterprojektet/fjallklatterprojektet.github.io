@@ -47,7 +47,7 @@ Efter någon timme når vi en plats strax nedanför den punkt där renstängslet
 
 Jag traskar först. Försöker hitta enklast möjliga väg fram mot glaciären över skravliga, böljande ändmoräner utan att tappa höjd. Snön är tunn och lömsk. På sina håll döljer den glatta isfläckar, och det dröjer inte länge innan jag nödgas spännar på stegjärnen. Stannar till på en höjd under glaciären, följer mina fotsteg med blicken och ser Ebba en bit längre ner. Medan jag väntar in henne tar jag på mig selen och börjar förbereda rep, kilar, isskruvar. Lite efter elva är vi inknutna och börjar gå över glaciären mot insteget, först rakt upp, sedan på skrå med dragning åt vänster.
 
-{% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_06.jpg" caption="På väg upp mot Helagsglaciären till fots. Vi har lämna skidorna längre ner bakom ett stort block för att kunna röra oss smidigare och hålla vikten nere under klättringen." %}
+{% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_06.jpg" caption="På väg upp mot Helagsglaciären till fots. Vi har lämnat skidorna längre ner bakom ett stort block för att kunna röra oss smidigare och hålla vikten nere under klättringen." %}
 
 {% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_07.jpg" caption="Östväggen reser sig brant över oss när vi närmar oss insteget. Elis ränna är den vänsterlutande ramp som syns till vänster i bild." %}
 
