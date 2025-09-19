@@ -79,6 +79,6 @@ Vi dröjer en kort stund på innan vi påbörjar nedfärden. Vinden kommer åt h
 
 {% include image.html url="/assets/images/2025-09-19-silhuettleden/silhuettleden_10.jpg" caption="Utsikten österut längs Laddjuvagge från Tuolpagornis topp (1662 m.ö.h.) är milsvid." %}
 
-En stund senare går vi längs Kittelbäcken. Passerar här och var slokande vandrare. Vid sjutiden börjar det regna. Jag halkar och sätter mig i en bäck när jag slarvigt hoppar mellan stenar. Tio i åtta är jag nere vid fjällstationen. Köper en dricka och en påse chips i butiken. Johan ansluter några minuter senare. Säger att han försökt ta rygg. Fått springa.
+En stund senare går vi längs Kittelbäcken. Passerar här och var slokande vandrare. Vid sjutiden börjar det regna. Jag halkar och sätter mig i en bäck när jag slarvigt hoppar mellan hala stenar. Tio i åtta är jag nere vid fjällstationen. Köper en dricka och en påse chips i butiken. Johan ansluter några minuter senare. Säger att han försökt ta rygg. Fått springa.
 
 Vi frågar om krubb i restaurangen. Det visar sig att det finns platser kvar till sena sittningen. Om man snor på lär man hinna med ett besök i bastun först.
