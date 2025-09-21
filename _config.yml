@@ -4,6 +4,7 @@ instagram_username: "fjallolle"
 description: "Fjällklätterprojektets hemsida"
 baseurl: ""
 url: "https://fjallklatterprojektet.github.io/"
+timezone: "Europe/Stockholm"
 plugins:
   - jekyll-feed
 kramdown:
