@@ -29,11 +29,14 @@ h1, h2, h3 {
   line-height: 1;
   color: #444;
   margin-top: 0.5em;
-  margin-bottom: -0.2em;
 }
 
-h1 {
+h1, h2 {
   margin-bottom: 0.5em;
+}
+
+h3 {
+  margin-bottom: -0.2em;
 }
 
 h3 a:link {
@@ -165,4 +168,8 @@ hr::before {
   font-size: larger;
   display: block;
   text-align: center;
+}
+
+div.footnotes {
+  font-size: smaller;
 }

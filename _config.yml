@@ -6,3 +6,5 @@ baseurl: ""
 url: "https://fjallklatterprojektet.github.io/"
 plugins:
   - jekyll-feed
+kramdown:
+  footnote_backlink: ""
