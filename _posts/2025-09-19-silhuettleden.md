@@ -27,7 +27,7 @@ Vi kikar på topon tillsammans, och jag börjar förstå var vi är i förhålla
 
 {% include image.html url="/assets/images/2025-09-19-silhuettleden/silhuettleden_02.jpg" caption="Enkel men lös scrambling tar oss genom första klippbandet upp till insteget. Vi har tur och kommer rakt upp till röset som markerar starten på Silhuettleden." %}
 
-Jag känner mig stressad. Det har gått för långsamt, och senar i eftermiddag ska det börja regna. Måste hinna upp innan dess, annars kan det bli en låg natt. Drar på sele och rackar upp. Knyter in mig i repet.
+Jag känner mig stressad. Det har gått för långsamt, och senare i eftermiddag ska det börja regna. Måste hinna upp innan dess, annars kan det bli en lång natt. Drar på sele och rackar upp. Knyter in mig i repet.
 
 Jag tar första replängden. Upp i nån diffus, grund ränna. Bitvis ganska brant. Klippan är grå och fast. Bra friktion. Jag sätter nån kam, klättrar vidare. Upp på en rymlig hylla. Löst, trippar försiktigt fram. Bygger ett ankare och hinner ropa ner till Johan innan jag ser limbultarna bredvid mig. Skrattar till. Vem har varit här och borrat?
 
