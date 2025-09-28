@@ -37,7 +37,7 @@ När jag vaknar lyser Helags östvägg röd och gul i morgonsolen under en blekb
 
 {% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_03.jpg" caption="Morgonsolen lyser upp Helags östvägg. Elis ränna är den diagonala, vänsterlutande ramp som kan ses strax till vänster om toppen." %}
 
-{% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_04.jpg" caption="Färden går över den vindpinade fjällheden mellan fjällstationen och Helagsfjällets östsluttningar." %}
+{% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_04.jpg" caption="Färden går över den vindpinade fjällheden mellan fjällstationen och Helagsfjällets östsluttningar." photo_credit="Ebba Orava" %}
 
 Snart bär det av uppåt. Vi styr in mot grytan, håller oss på vänsterkanten, kryssar mellan stenar och block. Ett vidsträckt och vindpinat landskap breder ut sig bakom oss. Ett par mil bort, på andra sidan landskapsgränsen, reser sig jämtländska fjäll: Härjångsstöten och Gåsen, och bakom dem Bunnerstötarna. Stighudarna väser under skidorna, och framför oss har vi hela tiden östväggen, klädd från topp till tå i snö och is.
 
