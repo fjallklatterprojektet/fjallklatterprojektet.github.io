@@ -5,6 +5,8 @@ author: Olle Eriksson
 date: 2025-09-19
 type: Turskildring
 summary: Bestigning av Tuolpagorni via Silhuettleden och Södra kraterkammen den 13:e augusti 2025.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221RBihCuGjG-1LjiGODyFe5nX63J3NQ5Ad%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1RBihCuGjG-1LjiGODyFe5nX63J3NQ5Ad/view?usp=drive_link
 ---
 
 Fortfarande sömndrucken stapplar jag fram längs leden. Hon är efter sju nu, och solen står redan högt, morgonhimlen klarblå. Johan, en bit längre fram, tar långa kliv över stenar och gyttjepölar. Jag sneglar mot Tuolpagorni, funderar på hur vi ska hitta insteget, om vi ska skråa österifrån eller gå rakt upp i skravlet.

@@ -5,6 +5,8 @@ author: Olle Eriksson
 date: 2025-09-07
 type: Turskildring
 summary: Bestigning av Kebnekaises nordtopp via Nygrens led den 12:e augusti 2025, med nedstigning via Sydtoppen och Östra leden.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221C5WHoWw2-9K3Gg0KBjM1bFieQN8lV6wc%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1C5WHoWw2-9K3Gg0KBjM1bFieQN8lV6wc/view?usp=drive_link
 ---
 
 Tidig morgon, 12 augusti 2025. Emellanåt vaknar jag till i några ögonblick och lyssnar uppgivet på dropparna som obönhörligen smattrar mot yttertältet innan jag åter faller i sömn.

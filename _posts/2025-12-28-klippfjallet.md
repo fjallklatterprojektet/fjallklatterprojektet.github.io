@@ -5,6 +5,8 @@ author: Olle Eriksson
 date: 2025-12-28
 type: Turskildring
 summary: Solotur på Klippfjällets sydvägg den 9:e december 2025.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%2212CX9xVufHMiNmuNyp5NX5IGilU_aOv66%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/12CX9xVufHMiNmuNyp5NX5IGilU_aOv66/view?usp=drive_link
 ---
 
 Temperaturen ligger runt nollan. Det är en bit in i december men Malgomaj ligger fortfarande öppen — hösten och förvintern har varit milda. Snötyngda granar gör mig sällskap i natten, ser förstrött på när jag susar förbi. Ett par decimeter nyfallen snö bäddar in landskapet. Det är rofyllt, men väcker samtidigt en oro. Snötäcket på kalfjället kan vara instabilt, och förhållandena längs min tänkta tur — som går i lavinterräng — kan vara problematiska. Men det beror på en mängd olika faktorer, och jag kan hur som helst inte göra någon bedömning nu utan får vänta tills jag är på plats.

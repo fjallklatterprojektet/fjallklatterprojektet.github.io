@@ -5,6 +5,8 @@ author: Olle Eriksson
 date: 2026-03-31
 type: Turskildring
 summary: Nytursförsök på Slottets sydvägg i Sylarna den 25:e mars 2026.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221eekM8OO76ueP1i6Uf1GJtwiqLwvIVv0N%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1eekM8OO76ueP1i6Uf1GJtwiqLwvIVv0N/view?usp=drive_link
 ---
 
 På eftermiddagen packade jag tält, mat och övrig utrustning i den stora ryggsäcken varefter jag lyfte in den i bilen tillsammans med skidorna. Därefter körde jag till Storulvån, och klev ut på parkeringen vid sextiden. Solen sjönk mot fjällen i väster medan jag skidade genom björkskogen upp mot kalfjället, och molnen blev varma och rosa innan de blev kalla och blåa när mörkret sedan kom. Månen var knappt halv, men gav ändå tillräckligt med ljus att kasta skarpa skuggor mot snön. I norr fladdrade ett grumligt norrsken, men jag skidade åt söder, mot vinden, och efter några timmar var jag så framme vid Sylarna. Jag passerade fjällstationen och slog upp tältet nära leden, en bit uppströms längs Sylälven. Snön virvlade omkring mig när jag drev ner tältpinnarna i isen. Strax efter midnatt kom jag till ro.

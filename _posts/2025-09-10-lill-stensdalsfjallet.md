@@ -5,6 +5,8 @@ author: Olle Eriksson
 date: 2025-09-10
 type: Turskildring
 summary: Bestigning av Lill-Stensdalsfjällets via scrambling uppför dess östra näsvinge den 9:e september 2025.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221nTdYHyYG6XQ5iUMFoEPp_d6-ssFmn5Je%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1nTdYHyYG6XQ5iUMFoEPp_d6-ssFmn5Je/view?usp=drive_link
 ---
 
 Tanken var att starta tidigt, men jag var trött och valde att sova. Nu är det redan efter lunch, och runt nio blir det mörkt. Jag är inte överdrivet förtjust i att springa på fjället, men ska jag hinna dagens tur är jag så illa tvungen. Letar fram lilla ryggsäcken, trycker ner ett par smörgåsar, några bars, en halvliter vatten, karta, en tröja och en buff innan jag drar på mig trailskorna och lubbar ut till bilen.

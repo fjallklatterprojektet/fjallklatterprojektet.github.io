@@ -5,6 +5,8 @@ author: Olle Eriksson
 date: 2025-09-23
 type: Turskildring
 summary: Isklättring på Predikstolens sydöstvägg den 1:a mars 2025.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221EFvCCGbCcrQWQUQAxFKIa_DvAcAwqd81%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1EFvCCGbCcrQWQUQAxFKIa_DvAcAwqd81/view?usp=drive_link
 ---
 
 Första mars. Det har blåst en del under natten, men nu har vinden avtagit och det ser ganska fint ut. Vi har en knapp mil framför oss på skidor när vi ger oss iväg från Helags fjällstation vid niotiden. Först söderut längs vinterleden mot Fältjägaren tills vi passerat renstängslet, sedan västerut under Helags sydsluttning för att nå Predikstolens sydöstvägg.
