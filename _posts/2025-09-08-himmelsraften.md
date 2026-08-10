@@ -4,7 +4,7 @@ title: Himmelsraften
 author: Olle Eriksson
 date: 2025-09-08
 type: Turskildring
-summary: Paddling över Mjölkvattnet, sedan klättring på Himmelsraftens sydvägg, september 2025.
+summary: Paddling över Mjölkvattnet, sedan klättring uppför Himmelsraftens sydvägg den 5:e september 2025.
 ---
 
 Halv fem glider jag in på parkeringen vid Östersund C. Det är torsdag i början av september, och ovanligt mycket folk i rörelse. En grupp vandrare med stora ryggsäckar rör sig mot stationshuset. Andra står och väntar på perrongen. Jag har just varit på Jula i Lillänge och köpt en kanotvagn. Den ska jag och Ebba använda för att släpa upp en kajak till Mjölkvattnet i kväll. Kvaliteten på vagnen känns sådär, men den har två hjul som rullar så det ska nog gå fint.

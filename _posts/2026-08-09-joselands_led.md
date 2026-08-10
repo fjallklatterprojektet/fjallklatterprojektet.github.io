@@ -4,7 +4,9 @@ title: Joselands led
 author: Olle Eriksson
 date: 2026-08-09
 type: Turskildring
-summary: Bestigning av Storsylen via Joselands den 20:e juli 2026.
+summary: Solobestigning av Storsylen via Joselands led den 20:e juli 2026.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221WGhbFWuryvCwgWZHSglkuQwv4gQ8PV20%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1WGhbFWuryvCwgWZHSglkuQwv4gQ8PV20/view?usp=drive_link
 ---
 
 Efter en bastu och en sen middag i självhushållsköket på Sylarnas fjällstation, hittade jag en skön fåtölj i vilken timmarna snabbt försvann medan jag ägnade mig åt skrivande och sorterande av bild- och videomaterial. När jag till slut fick tummen ur och traskade bort mot den lilla bron över Sylälven och upp på den grusiga ås där jag tidigare på kvällen rest mitt tält, var klockan närmare fyra på morgonen. Himlen gick från röd till orange till ljusblå, tältduken var vit av frost, och jag drog på mig ett extra lager varma kläder innan jag kröp ner i sovsäcken och omedelbart somnade.

@@ -4,7 +4,7 @@ title: Elis ränna
 author: Olle Eriksson
 date: 2025-09-18
 type: Turskildring
-summary: Helags östvägg via Elis ränna, februari 2025.
+summary: Bestigning av Helags östvägg via Elis ränna den 28:e februari 2025.
 ---
 
 Det är torsdag eftermiddag i slutet av februari. Jag kör söderut längs Storsjön på väg 321. Vägbanan är torr, åkrarna gröna. Bara lite is här och var där solen inte har kommit åt ordentligt i diken och skogskanter. Hittills en usel vinter för skidåkning. Men när skidåkningen är dålig så kan man ägna sig åt klättring istället.

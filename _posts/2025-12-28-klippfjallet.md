@@ -4,7 +4,7 @@ title: Klippfjället
 author: Olle Eriksson
 date: 2025-12-28
 type: Turskildring
-summary: Isklättring på Klippfjällets sydvägg 9:e december 2025.
+summary: Solotur på Klippfjällets sydvägg den 9:e december 2025.
 ---
 
 Temperaturen ligger runt nollan. Det är en bit in i december men Malgomaj ligger fortfarande öppen — hösten och förvintern har varit milda. Snötyngda granar gör mig sällskap i natten, ser förstrött på när jag susar förbi. Ett par decimeter nyfallen snö bäddar in landskapet. Det är rofyllt, men väcker samtidigt en oro. Snötäcket på kalfjället kan vara instabilt, och förhållandena längs min tänkta tur — som går i lavinterräng — kan vara problematiska. Men det beror på en mängd olika faktorer, och jag kan hur som helst inte göra någon bedömning nu utan får vänta tills jag är på plats.

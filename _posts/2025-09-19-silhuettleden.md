@@ -4,7 +4,7 @@ title: Silhuettleden
 author: Olle Eriksson
 date: 2025-09-19
 type: Turskildring
-summary: Silhuettleden + södra kraterkammen till Tuolpagornis topp, augusti 2025.
+summary: Bestigning av Tuolpagorni via Silhuettleden och Södra kraterkammen den 13:e augusti 2025.
 ---
 
 Fortfarande sömndrucken stapplar jag fram längs leden. Hon är efter sju nu, och solen står redan högt, morgonhimlen klarblå. Johan, en bit längre fram, tar långa kliv över stenar och gyttjepölar. Jag sneglar mot Tuolpagorni, funderar på hur vi ska hitta insteget, om vi ska skråa österifrån eller gå rakt upp i skravlet.

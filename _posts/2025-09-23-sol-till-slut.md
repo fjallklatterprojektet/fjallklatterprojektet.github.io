@@ -4,7 +4,7 @@ title: Sol till slut
 author: Olle Eriksson
 date: 2025-09-23
 type: Turskildring
-summary: Isklättring på Predikstolens sydöstvägg, mars 2025.
+summary: Isklättring på Predikstolens sydöstvägg den 1:a mars 2025.
 ---
 
 Första mars. Det har blåst en del under natten, men nu har vinden avtagit och det ser ganska fint ut. Vi har en knapp mil framför oss på skidor när vi ger oss iväg från Helags fjällstation vid niotiden. Först söderut längs vinterleden mot Fältjägaren tills vi passerat renstängslet, sedan västerut under Helags sydsluttning för att nå Predikstolens sydöstvägg.

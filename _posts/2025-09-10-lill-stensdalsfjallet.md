@@ -4,7 +4,7 @@ title: Lill-Stensdalsfjällets näsa
 author: Olle Eriksson
 date: 2025-09-10
 type: Turskildring
-summary: Scrambling uppför Lill-Stensdalsfjällets östra näsvinge och sedan vidare till toppen, september 2025.
+summary: Bestigning av Lill-Stensdalsfjällets via scrambling uppför dess östra näsvinge den 9:e september 2025.
 ---
 
 Tanken var att starta tidigt, men jag var trött och valde att sova. Nu är det redan efter lunch, och runt nio blir det mörkt. Jag är inte överdrivet förtjust i att springa på fjället, men ska jag hinna dagens tur är jag så illa tvungen. Letar fram lilla ryggsäcken, trycker ner ett par smörgåsar, några bars, en halvliter vatten, karta, en tröja och en buff innan jag drar på mig trailskorna och lubbar ut till bilen.

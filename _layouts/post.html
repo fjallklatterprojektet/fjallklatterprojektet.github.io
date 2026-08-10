@@ -18,10 +18,23 @@
         <a href="/">Hem</a>
       </nav>
       <h1>{{ page.title }}</h1>
+        {% if page.type == "Turskildring" %}
+        <p class="summary">
+          {{ page.summary }}
+        </p>
+        {% endif %}
       <p>
         <span class="author"><a href="mailto:fjallklatterprojektet@gmail.com">{{ page.author }}</a></span>
         <br>
         <span class="date">Publicerad {{ page.date | date: "%Y-%m-%d" }}</span>
+        {% if page.gpxstudio_url %}
+        <br>
+        <span class="gpx_link"><a href="{{ page.gpxstudio_url }}"><i class="fa-solid fa-map-location-dot"></i> Visa färdväg i gpx.studio</a>
+        {% endif %}
+        {% if page.googledrive_gpx_url %}
+        <br>
+        <span class="gpx_link"><a href="{{ page.googledrive_gpx_url }}"><i class="fa-brands fa-google-drive"></i> GPX-fil med färdväg på Google Drive</a></span>
+        {% endif %}
       </p>
     </header>
     {{ content }}

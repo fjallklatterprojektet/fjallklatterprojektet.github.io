@@ -94,6 +94,19 @@ p.block_indent {
   margin-left: 1em;
 }
 
+p.summary {
+  font-style: italic;
+}
+
+span.gpx_link a {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #444;
+}
+
+span.gpx_link a:hover {
+  color: hotpink;
+}
+
 span.author {
   color: #eee;
   font-family: "Roboto Condensed", sans-serif;

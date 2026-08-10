@@ -4,7 +4,9 @@ title: Nordostpelaren i Sylarna
 author: Olle Eriksson
 date: 2026-08-08
 type: Turskildring
-summary: Bestigning av Storsylen via Nordostpelaren den 19:e juli 2026.
+summary: Solobestigning av Storsylen via Nordostpelaren den 19:e juli 2026.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221vhpeYANsQ5LjxQMwPpQ9COBaQezK90EM%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1vhpeYANsQ5LjxQMwPpQ9COBaQezK90EM/view?usp=drive_link
 ---
 
 Jag vaknar vid lunch. Natten innan knatade jag in till Sylarna från Storulvån. Som vanligt kom jag iväg alldeles för sent. Som vanligt var det långt efter midnatt innan jag fått upp tältet nån kilometer upp mot Slottsdalen från Sylstationen. I kyla och vind, dålig sikt, frosten frasande under trailskorna. Fick ta på alla kläderna innan sovsäcken började kännas någorlunda varm. Sen kom sömnen snabbt. Som vanligt.

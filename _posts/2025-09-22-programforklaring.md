@@ -4,7 +4,7 @@ title: Programförklaring
 author: Olle Eriksson
 date: 2025-09-22
 type: Programförklaring
-summary: Svenska klätterprojektets programförklaring.
+summary: Svenska fjällklätterprojektets programförklaring.
 ---
 
 Som initiativtagare till Svenska fjällklätterprojektet vill jag genom denna programförklaring dels beskriva projektets bakgrund, syfte och omfattning, dels staka ut de riktlinjer som ska vara vägledande vid genomförandet av projektets olika delar.
