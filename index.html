@@ -3,11 +3,11 @@ layout: home
 title: Svenska fjällklätter&shy;projektet
 ---
 
-<p>Svenska fjällklätterprojektet har som mål att återupptäcka, dokumentera och tillgängliggöra information om svensk fjällklättring i förhoppningen att därmed öka intresset för och inspirera till klättring i hela den svenska fjällkedjan. Mer information kommer att publiceras här inom kort, men om du är otålig och har frågor eller är intresserad av att delta i projektet, tveka inte att höra av dig till <a href="mailto:fjallklatterprojektet@gmail.com">fjallklatterprojektet@gmail.com</a>.</p>
+<p>Välkommen till Svenska fjällklätterprojektet, vars mål är att återupptäcka, dokumentera och tillgängliggöra information om svensk fjällklättring.</p>
 
 <h2>Senaste aktivitet</h2>
 <ul>
-  {% for item in site.posts %}
+  {% for item in site.posts limit:10 %}
   <li>
     <h3><a href="{{item.url}}"><em>{{item.title}}</em> [{{item.type}}]</a></h3>
     <p class="block_indent">{{item.summary}} <a href="{{item.url}}">Läs mer...</a></p>

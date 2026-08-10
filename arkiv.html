@@ -1,0 +1,15 @@
+---
+layout: home
+title: Svenska fjällklätter&shy;projektet
+---
+
+<h2>Arkiv</h2>
+<p>Här finner du alla publicerade turskildringar, artiklar, essäer med mera som har producerats inom projektet.</p>
+<ul>
+  {% for item in site.posts %}
+  <li>
+    <h3><a href="{{item.url}}"><em>{{item.title}}</em> [{{item.type}}]</a></h3>
+    <p class="block_indent">{{item.summary}} <a href="{{item.url}}">Läs mer...</a></p>
+  </li>
+  {% endfor %}
+</ul>
