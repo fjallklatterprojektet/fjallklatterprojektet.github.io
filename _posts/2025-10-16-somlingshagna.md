@@ -4,7 +4,9 @@ title: Sömlingshågna
 author: Olle Eriksson
 date: 2025-10-16
 type: Turskildring
-summary: Scrambling på Sömlingshågna den 24:e september 2025.
+summary: Scrambling tll Sömlingshågnas topp den 24:e september 2025.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221EWPc2Xdbac4zJRqDGurp_R9wvlKp5SQb%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1EWPc2Xdbac4zJRqDGurp_R9wvlKp5SQb/view?usp=sharing
 ---
 
 Vad heter det vackert rundade fjäll som reser sig över trädtopparna på andra sidan myren? Jag har ingen karta i fickan, så istället halar jag upp telefonen och startar PeakFinder.[^1] Väntar ett ögonblick innan GPS:en har hittat min position. "Stor-Uckuvålen", läser jag på skärmen.

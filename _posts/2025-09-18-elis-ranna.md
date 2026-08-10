@@ -5,6 +5,8 @@ author: Olle Eriksson
 date: 2025-09-18
 type: Turskildring
 summary: Bestigning av Helags östvägg via Elis ränna den 28:e februari 2025.
+gpxstudio_url: https://gpx.studio/app?ids=%5B%221yfz1FFX-BbzZTiTgUqZ17FFS6JwOJwa_%22%5D
+googledrive_gpx_url: https://drive.google.com/file/d/1yfz1FFX-BbzZTiTgUqZ17FFS6JwOJwa_/view?usp=drive_link
 ---
 
 Det är torsdag eftermiddag i slutet av februari. Jag kör söderut längs Storsjön på väg 321. Vägbanan är torr, åkrarna gröna. Bara lite is här och var där solen inte har kommit åt ordentligt i diken och skogskanter. Hittills en usel vinter för skidåkning. Men när skidåkningen är dålig så kan man ägna sig åt klättring istället.
