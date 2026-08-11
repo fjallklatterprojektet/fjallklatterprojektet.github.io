@@ -34,7 +34,7 @@ function addTagToSearchBox(tag) {
 </script>
 
 <h2>Arkiv</h2>
-<p>Här listas alla publicerade turskildringar, artiklar, essäer med mera som har producerats inom projektet. Använd sökrutan nedan för att filtrera listan.</p>
+<p>Här listas alla publicerade turskildringar, artiklar, essäer med mera som har producerats inom projektet. Använd sökrutan nedan för att filtrera resultatlistan, eller klicka på någon av taggarna i resultatlistan för att använda den som sökord.</p>
 <input type="search" class="search_box" id="search_input" onkeyup="filterPostList(this.value)" onsearch="filterPostList(this.value)" placeholder="Sök...">
 <ul id="post_list">
   {% for post in site.posts %}
