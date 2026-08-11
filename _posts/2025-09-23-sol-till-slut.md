@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2025-09-23
 type: Turskildring
 summary: Isklättring på Predikstolens sydöstvägg den 1:a mars 2025.
+tags: härjedalen helags predikstolen isklättring
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221EFvCCGbCcrQWQUQAxFKIa_DvAcAwqd81%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1EFvCCGbCcrQWQUQAxFKIa_DvAcAwqd81/view?usp=drive_link
 ---

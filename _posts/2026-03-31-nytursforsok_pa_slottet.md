@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2026-03-31
 type: Turskildring
 summary: Nytursförsök på Slottets sydvägg i Sylarna den 25:e mars 2026.
+tags: jämtland sylarna slottet vinterklättring solo
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221eekM8OO76ueP1i6Uf1GJtwiqLwvIVv0N%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1eekM8OO76ueP1i6Uf1GJtwiqLwvIVv0N/view?usp=drive_link
 ---

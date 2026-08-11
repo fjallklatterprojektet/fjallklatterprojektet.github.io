@@ -144,6 +144,40 @@ span.date {
   background-color: hotpink;
 }
 
+span.archive_link a {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #444;
+}
+
+span.archive_link a:link {
+  color: inherit;
+}
+
+span.archive_link a:visited {
+  color: inherit;
+}
+
+span.archive_link a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+span.archive_link em {
+  color: #eee;
+  font-style: inherit;
+  background-color: #444;
+  border-radius: 4px;
+}
+
+span.archive_link a:hover em {
+  background-color: hotpink;
+}
+
+span.archive_tags {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: smaller;
+}
+
 .header_links {
   float: right;
 }
@@ -202,4 +236,17 @@ hr::before {
 
 div.footnotes {
   font-size: smaller;
+}
+
+.search_box {
+  box-sizing:border-box;
+  width: 100%;
+  font-family:inherit;
+  font-size: inherit;
+  color: inherit;
+  background-color: inherit;
+  padding: 0.2em 0.5em;
+  border: 2px solid #444;
+  border-radius: 8px;
+  margin-bottom: 1em;
 }

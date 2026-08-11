@@ -1,15 +1,45 @@
 ---
 layout: home
-title: Svenska fjällklätter&shy;projektet
+title: Arkiv - Svenska fjällklätter&shy;projektet
 ---
 
+<script>
+function filterPostList(filterText) {
+  const filters = filterText.toUpperCase().split(" ");
+  const ul = document.getElementById("post_list");
+
+  for (const li of ul.getElementsByTagName('li'))
+  {
+    p = li.getElementsByTagName("p")[0];
+    const text = p.textContent || p.innerText;
+    var showListItem = true;
+    for (const filter of filters)
+    {
+      if (text.toUpperCase().indexOf(filter) == -1)
+      {
+        showListItem = false;
+        break;
+      }
+    }
+    li.style.display = showListItem ? "" : "none";
+  }
+}
+
+function addTagToSearchBox(tag) {
+  input = document.getElementById("search_input");
+  input.value = tag;
+  filterPostList(tag);
+}
+
+</script>
+
 <h2>Arkiv</h2>
-<p>Här finner du alla publicerade turskildringar, artiklar, essäer med mera som har producerats inom projektet.</p>
-<ul>
-  {% for item in site.posts %}
+<p>Här listas alla publicerade turskildringar, artiklar, essäer med mera som har producerats inom projektet. Använd sökrutan nedan för att filtrera listan.</p>
+<input type="search" class="search_box" id="search_input" onkeyup="filterPostList(this.value)" placeholder="Sök...">
+<ul id="post_list">
+  {% for post in site.posts %}
   <li>
-    <h3><a href="{{item.url}}"><em>{{item.title}}</em> [{{item.type}}]</a></h3>
-    <p class="block_indent">{{item.summary}} <a href="{{item.url}}">Läs mer...</a></p>
+    <p><span class="archive_link"><a href="{{post.url}}"><em>{{post.title}}</em> [{{post.type}}] [Publicerad {{post.date | date: "%Y-%m-%d"}}]</a></span> {{post.summary}} <span class="archive_tags">{% for tag in post.tags %}<a href="#" onclick="addTagToSearchBox('{{ tag | upcase }}')">#{{ tag | upcase }}</a> {% endfor %}</span></p>
   </li>
   {% endfor %}
 </ul>

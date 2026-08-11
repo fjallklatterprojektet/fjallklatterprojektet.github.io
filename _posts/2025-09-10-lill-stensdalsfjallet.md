@@ -4,7 +4,8 @@ title: Lill-Stensdalsfjällets näsa
 author: Olle Eriksson
 date: 2025-09-10
 type: Turskildring
-summary: Bestigning av Lill-Stensdalsfjällets via scrambling uppför dess östra näsvinge den 9:e september 2025.
+summary: Bestigning av Lill-Stensdalsfjället via scrambling uppför dess östra näsvinge den 9:e september 2025.
+tags: jämtland vålådalen stensdalen scrambling
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221nTdYHyYG6XQ5iUMFoEPp_d6-ssFmn5Je%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1nTdYHyYG6XQ5iUMFoEPp_d6-ssFmn5Je/view?usp=drive_link
 ---

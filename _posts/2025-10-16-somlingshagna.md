@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2025-10-16
 type: Turskildring
 summary: Scrambling tll Sömlingshågnas topp den 24:e september 2025.
+tags: dalarna vedungsfjällen sömlingshågna scrambling
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221EWPc2Xdbac4zJRqDGurp_R9wvlKp5SQb%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1EWPc2Xdbac4zJRqDGurp_R9wvlKp5SQb/view?usp=sharing
 ---

@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2025-12-28
 type: Turskildring
 summary: Solotur på Klippfjällets sydvägg den 9:e december 2025.
+tags: lappland västerbotten grönfjäll klippfjället isklättring solo
 gpxstudio_url: https://gpx.studio/app?ids=%5B%2212CX9xVufHMiNmuNyp5NX5IGilU_aOv66%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/12CX9xVufHMiNmuNyp5NX5IGilU_aOv66/view?usp=drive_link
 ---

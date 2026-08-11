@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2026-02-10
 type: Turskildring
 summary: Solobestigning av Rännan på Borgahällans nordostvägg den 27:e januari 2026.
+tags: jämtland lappland västerbotten borgafjäll borgahällan isklättring vinterklättring solo
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221TqPA73ev-PaKN1rHH60lzztSfKjE8iwn%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1TqPA73ev-PaKN1rHH60lzztSfKjE8iwn/view?usp=drive_link
 ---

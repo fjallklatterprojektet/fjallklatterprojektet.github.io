@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2026-08-09
 type: Turskildring
 summary: Solobestigning av Storsylen via Joselands led den 20:e juli 2026.
+tags: jämtland sylarna glaciär klättring solo
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221WGhbFWuryvCwgWZHSglkuQwv4gQ8PV20%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1WGhbFWuryvCwgWZHSglkuQwv4gQ8PV20/view?usp=drive_link
 ---

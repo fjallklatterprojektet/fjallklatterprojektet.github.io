@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2025-09-18
 type: Turskildring
 summary: Bestigning av Helags östvägg via Elis ränna den 28:e februari 2025.
+tags: härjedalen helags glaciär vinterklättring
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221yfz1FFX-BbzZTiTgUqZ17FFS6JwOJwa_%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1yfz1FFX-BbzZTiTgUqZ17FFS6JwOJwa_/view?usp=drive_link
 ---

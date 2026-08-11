@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2025-09-08
 type: Turskildring
 summary: Paddling över Mjölkvattnet, sedan klättring uppför Himmelsraftens sydvägg den 5:e september 2025.
+tags: jämtland oldfjällen svenskådalen kajak paddling klättring
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221huPEg_9N_pYu76ChWaBy1HF1N_eWck-x%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1huPEg_9N_pYu76ChWaBy1HF1N_eWck-x/view?usp=drive_link
 ---

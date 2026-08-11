@@ -5,6 +5,7 @@ author: Olle Eriksson
 date: 2026-08-08
 type: Turskildring
 summary: Solobestigning av Storsylen via Nordostpelaren den 19:e juli 2026.
+tags: jämtland sylarna glaciär klättring solo
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221vhpeYANsQ5LjxQMwPpQ9COBaQezK90EM%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1vhpeYANsQ5LjxQMwPpQ9COBaQezK90EM/view?usp=drive_link
 ---
