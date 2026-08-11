@@ -45,7 +45,7 @@
         <br>
         <span class="gpx_link"><a href="{{ page.googledrive_gpx_url }}"><i class="fa-brands fa-google-drive"></i> GPX-fil med färdväg på Google Drive</a></span>
         {% endif %}
-        {% if page.tags %}
+        {% if page.tags and page.tags.size > 0 %}
         <br>
           <span class="tags">
           <i class="fa-solid fa-tag"></i> Taggar:
