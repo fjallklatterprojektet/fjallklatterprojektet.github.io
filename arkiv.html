@@ -8,7 +8,7 @@ function filterPostList(filterText) {
   const filters = filterText.toUpperCase().split(" ");
   const ul = document.getElementById("post_list");
 
-  for (const li of ul.getElementsByTagName('li'))
+  for (const li of ul.getElementsByTagName("li"))
   {
     p = li.getElementsByTagName("p")[0];
     const text = p.textContent || p.innerText;
@@ -35,7 +35,7 @@ function addTagToSearchBox(tag) {
 
 <h2>Arkiv</h2>
 <p>Här listas alla publicerade turskildringar, artiklar, essäer med mera som har producerats inom projektet. Använd sökrutan nedan för att filtrera listan.</p>
-<input type="search" class="search_box" id="search_input" onkeyup="filterPostList(this.value)" placeholder="Sök...">
+<input type="search" class="search_box" id="search_input" onkeyup="filterPostList(this.value)" onsearch="filterPostList(this.value)" placeholder="Sök...">
 <ul id="post_list">
   {% for post in site.posts %}
   <li>
