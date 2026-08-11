@@ -45,6 +45,15 @@
         <br>
         <span class="gpx_link"><a href="{{ page.googledrive_gpx_url }}"><i class="fa-brands fa-google-drive"></i> GPX-fil med färdväg på Google Drive</a></span>
         {% endif %}
+        {% if page.tags %}
+        <br>
+          <span class="tags">
+          <i class="fa-solid fa-tag"></i> Taggar:
+          {% for tag in page.tags %}
+            <a href="/arkiv.html?tag={{ tag | upcase }}">#{{ tag | upcase }}</a>
+          {% endfor %}
+          </span>
+        {% endif %}
       </p>
     </header>
     {{ content }}

@@ -25,3 +25,13 @@ function addTagToSearchBox(tag) {
   input.value = tag;
   filterPostList(tag);
 }
+
+function addTagValueFromQueryStringToSearchBox()
+{
+  let params = new URLSearchParams(window.location.search);
+  if (params.has("tag"))
+  {
+    addTagToSearchBox(params.get("tag"));
+  }
+}
+addTagValueFromQueryStringToSearchBox();

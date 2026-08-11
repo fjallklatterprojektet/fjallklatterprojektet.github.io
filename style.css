@@ -129,6 +129,24 @@ span.author a:hover {
   text-decoration: inherit;
 }
 
+span.tags {
+  font-family: "Roboto Condensed", sans-serif;
+  font-style: inherit;
+}
+
+span.tags a:link {
+  color: #06f;
+}
+
+span.tags a:visited {
+  color: #06f;
+}
+
+span.tags a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+
 span.date {
   font-family: "Roboto Condensed", sans-serif;
 }
@@ -241,7 +259,7 @@ div.footnotes {
 .search_box {
   box-sizing:border-box;
   width: 100%;
-  font-family:inherit;
+  font-family: "Roboto Condensed", sans-serif;
   font-size: inherit;
   color: inherit;
   background-color: inherit;
