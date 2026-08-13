@@ -18,7 +18,8 @@ title: Arkiv - Svenska fjällklätter&shy;projektet
       </span>
       {{post.summary}}
       <span class="archive_tags">
-        {% for tag in post.tags %}
+        {% assign sorted_tags = post.tags | sort %}
+        {% for tag in sorted_tags %}
           <a href="#" onclick="addTagToSearchBox('{{ tag | upcase }}')">#{{ tag | upcase }}</a>
         {% endfor %}
       </span>
