@@ -52,7 +52,7 @@ Jag traskar först. Försöker hitta enklast möjliga väg fram mot glaciären �
 
 {% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_06.jpg" caption="På väg upp mot Helagsglaciären till fots. Vi har lämnat skidorna längre ner bakom ett stort block för att kunna röra oss smidigare och hålla vikten nere under klättringen." %}
 
-{% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_07.jpg" caption="Östväggen reser sig brant över oss när vi närmar oss insteget. Elis ränna är den vänsterlutande ramp som syns till vänster i bild." %}
+{% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_07.jpg" caption="Östväggen reser sig brant över oss när vi närmar oss insteget. Elis ränna är den vänsterlutande ramp som syns till vänster i bild." photo_credit="Ebba Orava" %}
 
 {% include image.html url="/assets/images/2025-09-11-elis-ranna/elis-ranna_08.jpg" caption="På väg över glaciären mot insteget." photo_credit="Christer Ljungqvist" %}
 
