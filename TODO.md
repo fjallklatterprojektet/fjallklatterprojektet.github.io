@@ -1,6 +1,7 @@
 # Fjällklätterprojektet TODOs
 
 ## TODO
+* Add Apple Touch Icon support
 
 ## DONE
 * Vertically align links in header
