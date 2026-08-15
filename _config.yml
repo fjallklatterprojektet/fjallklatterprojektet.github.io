@@ -3,6 +3,7 @@ email: "fjallklatterprojektet@gmail.com"
 instagram_username: "fjallklatterprojektet"
 description: "Fjällklätterprojektets hemsida"
 baseurl: ""
+permalink: /:title.html
 url: "https://fjallklatterprojektet.github.io/"
 timezone: "Europe/Stockholm"
 plugins:
