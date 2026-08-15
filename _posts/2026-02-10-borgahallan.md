@@ -10,7 +10,7 @@ gpxstudio_url: https://gpx.studio/app?ids=%5B%221TqPA73ev-PaKN1rHH60lzztSfKjE8iw
 googledrive_gpx_url: https://drive.google.com/file/d/1TqPA73ev-PaKN1rHH60lzztSfKjE8iwn/view?usp=drive_link
 ---
 
-### Lavinprognoser och hyrbilar
+## Lavinprognoser och hyrbilar
 
 Måndag 26:e januari. Några dagar tidigare har bilen börjat gnissla och knarra. Vågar inte köra längre än absolut nödvändigt, och ingen verkstadstid går att få fatt i förrän om en dryg vecka. Vädret är vackert. Klart och kallt, inte mycket vind. Ska visst fortsätta så i flera dagar. Och ingen snö har fallit på ett par veckor nu — lavinprognoserna är gröna i Jämtland och Västerbotten. Bra förhållanden för fjällklättring. Jag tar fram kartor, läser ledbeskrivningar. Känner mig rastlös och fånga i hemmet, frustrerad och uppgiven över bilsituationen. Behöver komma iväg. Göra någonting.
 
@@ -26,7 +26,7 @@ Jag bokar en hyrbil på nätet innan jag springer ner till stationen. När jag k
 
 Allt detta tar förstås längre tid än planerat. Först vid midnatt är jag i säng, men nu har tankar och funderingar inför morgondagen hunnit få fäste innanför pannloben, och för en gångs skull har jag svårt att komma till ro. Klockan hinner blir både ett och två innan jag till slut får någon timmes vila.
 
-### Färd i mörker
+## Färd i mörker
 
 Kvart över tre väcker alarmet mig ur min halvsömn. Jag ragglar upp, äter en macka och borstar tänderna innan jag lastar in det sista i bilen och rullar iväg vid halv fyrasnåret. Det är skönt i bilen. Lugnt och tyst. Den har värme både i sätet och i ratten. Jag far ner mot Östersund längs E14, sedan E45 norrut. Passerar Hammerdal, Strömsund, Hoting. Äter en till tunnbrödmacka, får i mig en drickyoghurt, kör om någon enstaka timmerbil.
 
@@ -38,7 +38,7 @@ Jag kör igenom Borgafjäll och tar sedan av på Borgadammsvägen ner mot sjön.
 
 {% include image.html url="/assets/images/2026-02-10-borgahallan/borgahallan_02.jpg" caption="Borgahällans nordostvägg fotad strax före åtta morgonen den 27:e januari. En stund senare påbörjar jag anmarschen mot Rännan." %}
 
-### Mot väggen
+## Mot väggen
 
 Tjugo över åtta knatar jag över dammen längs ett skoterspår. Snön knarrar ljudligt under mina fötter. Efter dammen fortsätter jag längs skoterspåret i ytterligare något hundratal meter innan det viker av söderut och jag fortsätter rakt fram. Snön är mjuk här. Jag pulsar i brant uppförsbacke genom gles björkskog, sjunker djupt vid varje steg. Men i takt med att skogen blir glesare blir också snötäcket alltmer vindpinat och bärkraftigt, och i och med det blir det också enklare att ta sig fram. Jag försöker hålla ett jämnt tempo. Ser till att andningen är lugn. Märker att kroppen börjar bli varm. Tar av mig skaljackan för att undvika att bli för svettig.
 
@@ -48,7 +48,7 @@ Strax före nio träffar solens första strålar nordostväggens övre del och f
 
 Kvart i tio står jag i snöslänten alldeles nedanför insteget till rännan. På höger sida reser sig bergväggen i en hög pelare som sträcker sig brant rakt upp mot toppen. Till vänster är klippan mer uppbruten, skär ner mot mig i en flackare vinkel men ger ändå ett massivt intryck. I mitten slingrar sig rännan in bland skuggorna, till en början omkring femtio grader brant, kanske fem meter bred. Sedan brantare, något smalare. En oavbruten rännil av finkornig snö rasslar ner i dess mitt, virvlar runt mina storskor.
 
-### Rännan
+## Rännan
 
 Färden fortsätter uppåt, bort från solen, in i skuggorna. Berget omsluter mig, omfamnar mig. Världen krymper till ett litet rum. Högt ovanför lyser bergväggen gul mot en liten blå himmel. Nedanför breder ett sluttande golv av snö ut sig. Snön är hyfsat medgörligt. Ibland sockrig och lös, ibland fast nog sparka steg i, ibland bara ett tunt lager över is. Jag tar loss yxorna från selen och använder dem som stöd. Snart värms de upp av mina händer genom de tunna handskarna så att snö börjar smälta nedanför bladens infästningar. Vattendroppar rinner ner längs skaften och fryser till klumpar som jag med jämna mellanrum stannar och skrapar bort. Är något förvånad över att jag inte fryser trots tunna kläder, men så har jag också hållit mig i ständig rörelse.
 
@@ -74,7 +74,7 @@ Efter något tiotal meter är jag ute ur kaminen, och klättringen blir flackare
 
 Så ser jag en snöramp som leder ut till vänster och som stämmer in på de beskrivningar jag har tagit del av. Den ser brant och inte särskilt inbjudande ut, och jag funderar på om det kanske kan finnas en bättre ramp något högre upp. Men jag har ingen lust att ödsla tid på att klättra upp bara för att eventuellt inse att jag behöver klättra ner igen, och eftersom rampen ändå ser tjänlig ut så är det kanske lika bra att välja den genast. Skruvar hur som i en isskruv som jag säkrar mig i med en slinga, sparkar ut en liten hylla att stå på, och ger mig själv ett par minuter att samla mig, ta in omgivningen, få ner pulsen, och läsa ledbeskrivningen innan jag fattar ett beslut om vilken väg jag ska ta. Himlen är klarblå. Kylan biter och börjar krypa igenom kläderna så snart jag inte befinner mig i rörelse. Jag överväger mina alternativ. Att vända här och fira sig ner är också en möjlighet. Fortsätter jag vidare blir leden mixad och mer traverserande, och det innebär att en reträtt därifrån tveklöst kommer att blir betydligt krångligare och mer tidsödande än från den plats där jag nu befinner mig (varifrån några abalakovs torde räcka för att ta sig ner snabbt och säkert).
 
-### Klippa och snö
+## Klippa och snö
 
 Klockan är nu runt elva. Någon minut hinner gå innan jag bestämmer mig för att lämna min uppsparkade hylla och fortsätta ut åt vänster, varefter jag genast börjar traversera ut på rampen. Den är exponerad och sluttar brant, men snön visar sig vara tjänlig — lös och sockrig men ändå fast nog för att kunna sparka fotsteg som för det mesta håller. Till en början får jag ibland fast yxorna i isen över rampen, sedan får jag nöja mig med att krafsa i snön med dem.
 
@@ -96,7 +96,7 @@ Jag går tillbaka till kanten, till platsen precis där jag forcerade toppdrivan
 
 {% include image.html url="/assets/images/2026-02-10-borgahallan/borgahallan_10.jpg" caption="Den obligatoriska selfien efter urtoppningen. Jag lyckades efter ett antal försök till slut ta en bild utan att få telefonens skugga rakt över ansiktet!" %}
 
-### Nedfärd
+## Nedfärd
 
 Topplatån är mjukt välvd, och toppröset sticker upp ett hundratal meter långre norrut. Jag går långsamt dit. Njuter av omgivningarna. Knappt någon vind, mjukt rundade fjäll så långt ögat når. Tittar ner mot skidbackarna, ner mot dammen där bilen står parkerad. Sedan påbörjar jag genast nedfärden. Snön på kalfjället är hård, packad och formad av vinden, enkel att gå på. Stegjärnen får sitta kvar. Fortsätter mot nordväst, försöker följa sommarleden som går ner mot skogen och Borgasjön genom den breda skåran som tar vid någon kilometer åt nord-nordväst och som markerar nordostväggens avslutning i den riktningen.
 
@@ -106,7 +106,7 @@ Det går snabbt att ta sig ner genom skåran, men när jag närmar mig skogen bl
 
 Sista dryga kilometern tar vad som känns som en evighet, men till slut är pulsandet över, och tjugo över två går jag över dammen igen, ungefär sex timmar efter att jag startade i morse. Känner mig trött — inte nödvändigtvis fysiskt, även om låren är rejält möra efter pulsandet — och lite upprymd, men på ett dämpat sätt. Färden genom skogen har gjort mig svettig, och nu märker jag hur kylan biter. Hungern börjar också göra sig påmind — har trots allt bara ätit en Mars under turen — men tanken på att slå upp tältet och plocka fram gasköket och börja smälta snö är just nu inte särskilt lockande.
 
-### Matjakt i Borgafjäll
+## Matjakt i Borgafjäll
 
 Vid byggnaderna i anslutning till parkeringen stöter jag ihop med två tekniker som är där på jobb över dagen. De har utgått från Arvidsjaur, och de är de första människor som jag ser i dag. De blir först först förvånade och sedan entusiastiska när jag pekar ut leden jag har klättrat på Borgahällan. De har full förståelse för att jag inte vill tälta i natt, och rekommenderar Borgafjäll Hotell, som ska ha både bra mat och boende. Jag känner väl till hotellet, ritat i slutet av fyrtiotalet av den brittiske arkitekten Ralph Erskine — som kom till Sverige 1939 för att studera funktionalismen, och som sedan blev kvar — och invigd 1955. Så efter att ha hängt av mig utrustningen och kastat in den i bilen, kör jag genast dit för att se om jag kan få någonting att äta, och eventuellt också en säng att sova i.
 

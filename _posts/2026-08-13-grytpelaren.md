@@ -10,7 +10,7 @@ gpxstudio_url: https://gpx.studio/app?ids=%5B%221F8PEpdjbdGPP0NGCcw0vREW4x69CRmH
 googledrive_gpx_url: https://drive.google.com/file/d/1F8PEpdjbdGPP0NGCcw0vREW4x69CRmH8/view?usp=drive_link
 ---
 
-### Anmarsch från Nordsätern
+## Anmarsch från Nordsätern
 
 Halv tre blir jag avsläppt vid Nordsätern och vinkar adjö till föräldrarna. De har varit på besök och plockat hjortron i ett par dagar, och på hemresedagen har de varit bussiga not att göra en avstickare för att skjutsa mig till starten av mitt nästa äventyr.
 
@@ -28,7 +28,7 @@ Trots sin dramatiska karaktär och skarpa kontrast mot det nedanförliggande hed
 
 Så befinner jag mig, efter 2,5 timmars vandring, mitt i Storådörrens praktfulla dalgång.
 
-### Var är Grytpelaren?
+## Var är Grytpelaren?
 
 Klättringen här vet jag inte mycket om. Det lilla som går att läsa i Jämtlandsföraren antyder att här har gjorts en handfull leder, men att det mesta tyvärr är löst och inte kan rekommenderas[^1]. När dessa lösa leder har fått sina förstabestigningar framgår inte, men en inte alltför vild gissning att det handlar om 70- och 80-tal. Vinterklättring har man också ägnat sig åt här (numer är Lundörren, som fågelvägen bara ligger en halvmil österut, det mer namnkunniga målet för is- och vinterklättrare). Den enda led som är namngiven och beskriven i föraren — och som påstås erbjuda något fastare klippkvalitet — är Grytpelaren uppför Nörder-Storådörrens västsida (det är oklart vilka förstbestigarna är, då Jämtlandsföraren bara meddelar att de leder som har gjorts på denna fjällsida har klättrats av Bengt Rodin m.fl.[^1]).
 
@@ -78,7 +78,7 @@ Strax under utsteget brantar det på, och ett slags hammare reser sig över mig 
 
 {% include image.html url="/assets/images/2026-08-13-grytpelaren/grytpelaren_04.jpg" caption="Den övre delen av Grytpelaren. Den branta hammaren strax under utsteget reser sig från mitten av bilden och avtecknar sig tydligt mot himlen." %}
 
-### Vägen ner och vidare
+## Vägen ner och vidare
 
 Nu återstår bara en kort men luftig kam innan jag når fram till den stora, svagt välvda topplatån. Jag går försiktigt, placerar omsorgsfullt fötterna på den smala remsan mellan bråddjupet till vänster och det mindre bråda djupet till höger. Tar hjälp av händerna för att hålla balansen. Kliver över stenar, ytterligare några steg upp, flackare igen. Och så är klättringen över.
 
@@ -108,7 +108,7 @@ Efter en stund på toppen knatar jag vidare norrut, följer åarna och åsarna n
 
 {% include image.html url="/assets/images/2026-08-13-grytpelaren/grytpelaren_08.jpg" caption="Leden Grytpelaren slingrar sig upp genom den största grytan på Nörder-Storådörrfjällets västsida. Efter att ha tagit sig uppför raskäglan fortsätter man vidare (scrambling över sva) upp till rännan som leder till själva grytans botten. Därifrån leder en svaplatta till pelarens insteg, varefter man följer denna pelare hela vägen till utsteget vid väggens krön." %}
 
-### Föraren och verkligheten
+## Föraren och verkligheten
 
 Äventyret är över, men vilken led var det egentligen som jag till slut klättrade i Storådörren? Var det Grytpelaren? Svaplattan under insteget och den branta hammaren strax innan utsteget tyder i alla fall på det. Jämtlandsföraren har följande att säga om leden:
 
