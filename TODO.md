@@ -1,9 +1,9 @@
 # Fjällklätterprojektet TODOs
 
 ## TODO
-* Add Apple Touch Icon support
 
 ## DONE
+* Add Apple Touch Icon support
 * Vertically align links in header
 * Add support to populate search box with value from url query string
 * Add clickable tags to post headers that take user to archive and automatically populates search box
