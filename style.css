@@ -86,7 +86,7 @@ p a:hover {
   text-decoration: underline;
 }
 
-ul {
+ul.post_list {
   list-style: none;
   padding-left: 0;
 }
