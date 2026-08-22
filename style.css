@@ -75,6 +75,8 @@ a.external {
 
 a.external:hover {
     background: url("/assets/images/external_link_arrow_hover.svg") no-repeat scroll right transparent;
+    background-size: 0.6em 0.6em;
+    padding-right: 0.8em;
 }
 
 p {
