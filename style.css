@@ -68,15 +68,25 @@ a {
 }
 
 a.external {
-    background: url("/assets/images/external_link_arrow.svg") no-repeat scroll right transparent;
-    background-size: 0.6em 0.6em;
-    padding-right: 0.8em;
+  background: url("/assets/images/external_link_arrow.svg") no-repeat scroll right transparent;
+  background-size: 0.6em 0.6em;
+  padding-right: 0.8em;
+}
+
+a.external:link {
+  color: #06f;
+}
+
+a.external:visited {
+  color: #06f;
 }
 
 a.external:hover {
-    background: url("/assets/images/external_link_arrow_hover.svg") no-repeat scroll right transparent;
-    background-size: 0.6em 0.6em;
-    padding-right: 0.8em;
+  color: hotpink;
+  text-decoration: underline;
+  background: url("/assets/images/external_link_arrow_hover.svg") no-repeat scroll right transparent;
+  background-size: 0.6em 0.6em;
+  padding-right: 0.8em;
 }
 
 p {
