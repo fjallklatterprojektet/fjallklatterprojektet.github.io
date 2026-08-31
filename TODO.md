@@ -1,6 +1,7 @@
 # Fjällklätterprojektet TODOs
 
 ## TODO
+* Add support for fuzzy string search
 
 ## DONE
 * Add Apple Touch Icon support
