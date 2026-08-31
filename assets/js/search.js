@@ -1,16 +1,23 @@
 
-function filterPostList(filterText) {
-  const filters = filterText.toUpperCase().split(" ");
+function removeDiacritics(string)
+{
+  return string.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function filterPostList(filterText)
+{
+  const filters = removeDiacritics(filterText).toUpperCase().split(" ");
   const ul = document.getElementById("post_list");
 
   for (const li of ul.getElementsByTagName("li"))
   {
     p = li.getElementsByTagName("p")[0];
-    const text = p.textContent || p.innerText;
+    const text = removeDiacritics((p.textContent || p.innerText).toUpperCase());
+
     var showListItem = true;
     for (const filter of filters)
     {
-      if (text.toUpperCase().indexOf(filter) == -1)
+      if (text.indexOf(filter) == -1)
       {
         showListItem = false;
         break;
@@ -20,9 +27,10 @@ function filterPostList(filterText) {
   }
 }
 
-function addTagToSearchBox(tag) {
+function addTagToSearchBox(tag)
+{
   input = document.getElementById("search_input");
-  input.value = tag;
+  input.value = removeDiacritics(tag);
   filterPostList(tag);
 }
 
