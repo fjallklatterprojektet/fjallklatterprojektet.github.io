@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" href="/style.css">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+    <script src="/assets/js/expand_tags.js" defer></script>
   </head>
   <body>
     <header>
@@ -54,12 +55,8 @@
           {% assign tag_counter = 0 %}
           {% for tag in sorted_tags %}
             {% if tag_counter == 5 %}
-              <button id="expand_tags_button" class="expand_button" type="button" aria-label="Expand tags" onClick="document.getElementById('expandable_tags').style.display = 'inline'; this.style.display = 'none';">...</button>
+              <button id="expand_tags_button" class="expand_button" type="button" aria-label="Expand tags" onclick="expandTags()">...</button>
               <span id="expandable_tags">
-              <script>
-                document.getElementById("expand_tags_button").style.display = "inline-block";
-                document.getElementById("expandable_tags").style.display = "none";
-              </script>
             {% endif %}
             <a href="/arkiv.html?tag={{ tag | upcase }}">#{{ tag | upcase }}</a>
             {% assign tag_counter = tag_counter | plus: 1 %}
