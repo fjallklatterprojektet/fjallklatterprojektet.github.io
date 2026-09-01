@@ -284,7 +284,8 @@ div.footnotes {
 }
 
 .search_box {
-  box-sizing:border-box;
+  display: none;
+  box-sizing: border-box;
   width: 100%;
   font-family: "Roboto Condensed", sans-serif;
   font-size: inherit;
@@ -294,4 +295,19 @@ div.footnotes {
   border: 2px solid #444;
   border-radius: 8px;
   margin-bottom: 1em;
+}
+
+button.expand_button {
+  display: none;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: inherit;
+  font-size: inherit;
+  color: #06f;
+  cursor: pointer;
+}
+
+button.expand_button:hover {
+  color: hotpink;
 }

@@ -7,7 +7,14 @@ title: Arkiv - Svenska fjällklätter&shy;projektet
 
 <p>Här listas alla publicerade turskildringar, artiklar, essäer med mera som har producerats inom projektet. Använd sökrutan nedan för att filtrera resultatlistan, eller klicka på någon av taggarna i resultatlistan för att använda den som sökord.</p>
 
+<noscript>
+  <p><em>Sökfunktionen är för närvarande inte tillgänglig. För att kunna använda sökfunktionen måste JavaScript vara aktiverat.</em></p>
+</noscript>
+
 <input type="search" class="search_box" id="search_input" onkeyup="filterPostList(this.value)" onsearch="filterPostList(this.value)" placeholder="Sök...">
+<script>
+  document.getElementById("search_input").style.display = "inline-block";
+</script>
 
 <ul class="post_list" id="post_list">
   {% for post in site.posts %}

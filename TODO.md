@@ -4,6 +4,7 @@
 * Add support for fuzzy string search
 
 ## DONE
+* Add ellipsis button to expand tags
 * Add Apple Touch Icon support
 * Vertically align links in header
 * Add support to populate search box with value from url query string
