@@ -2,6 +2,8 @@
 
 ## TODO
 * Add support for fuzzy string search
+* Build tool to show post statistics, such as word count
+* Build tool to generate schematic maps of ridges and summits
 
 ## DONE
 * Add ellipsis button to expand tags
