@@ -5,7 +5,7 @@ author: Olle Eriksson
 date: 2026-08-13
 type: Turskildring
 summary: Solobestigning av Nörder-Storådörrsfjället via Grytpelaren den 1:a augusti 2026.
-tags: härjedalen ljungdalsfjällen lunndörrsfjällen storådörren klättring solo
+tags: [härjedalen, ljungdalsfjällen, lunndörrsfjällen, storådörren, klättring, solo]
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221F8PEpdjbdGPP0NGCcw0vREW4x69CRmH8%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1F8PEpdjbdGPP0NGCcw0vREW4x69CRmH8/view?usp=drive_link
 ---

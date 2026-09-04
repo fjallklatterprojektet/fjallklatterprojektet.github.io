@@ -5,7 +5,7 @@ author: Olle Eriksson
 date: 2026-08-16
 type: Områdesbeskrivning
 summary: Beskrivning av isklättringen vid Fettjeåfallet och Bräckvallsisen.
-tags: Jämtland Klövsjö Isklättring Vemdalsfjällen
+tags: [Jämtland, Klövsjö, Isklättring, Vemdalsfjällen]
 ---
 
 ## Inledning

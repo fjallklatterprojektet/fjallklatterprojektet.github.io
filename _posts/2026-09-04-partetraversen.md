@@ -5,7 +5,7 @@ author: Olle Eriksson
 date: 2026-09-04
 type: Turskildring
 summary: Pårtetraversen solo från söder till norr i ostadigt väder den 24:e augusti 2026.
-tags: lappland norrbotten sarek kvikkjokk pårte bårdde pårtetjåkkå bårddetjåhkkå palkatjåkkå bálgattjåhkkå tvillingryggen lullihatjåkkå lulijtjåhkkå vykortshaket solo scrambling
+tags: [lappland, norrbotten, sarek, kvikkjokk, pårte, bårdde, pårtetjåkkå, bårddetjåhkkå, palkatjåkkå, bálgattjåhkkå, tvillingryggen, lullihatjåkkå, lulijtjåhkkå, vykortshaket, solo, scrambling]
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221r593uAtk_F92Jhmc6QVrXXxy0zIltb9w%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1r593uAtk_F92Jhmc6QVrXXxy0zIltb9w/view?usp=drive_link
 ---
