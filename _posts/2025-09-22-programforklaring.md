@@ -18,7 +18,7 @@ Vid all verksamhet som företas inom projektet ska god sed iakttas inom respekti
 Olle Eriksson  
 Järpen, 22 september 2025
 
-[^1]: Bland dessa undantag kan nämnas Robin Anderssons och Jon Moln Teikes *Klättring i Kebnekaise* samt Karl-Johan Piehls *Sarek : vandring, löpning och klättring med lättviktspackning*.
+[^1]: Bland dessa undantag kan nämnas Robin Anderssons och Jon Moln Teikes *Klättring i Kebnekaise* samt Karl-Johan Piehls *Sarek : Vandring, löpning och klättring med lättviktspackning*.
 
 [^2]: Med fjällklättring åsyftas här främst alpin klättring i högfjäll, men även andra typer av klättring — såsom bouldering, klippklättring och isklättring — samt i viss mån även andra närliggande aktiviteter — såsom toppturer på skidor med inslag av scrambling, klättring eller firning — ryms inom projektets ramar så länge de utförs i fjällmiljö och iakttar god sed.
 
