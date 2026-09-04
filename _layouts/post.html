@@ -39,6 +39,10 @@
         <span class="author"><a href="mailto:fjallklatterprojektet@gmail.com">{{ page.author }}</a></span>
         <br>
         <span class="date">Publicerad {{ page.date | date: "%Y-%m-%d" }}</span>
+        {% if page.revised %}
+        <br>
+        <span class="date">Reviderad {{ page.revised | date: "%Y-%m-%d" }}</span>
+        {% endif %}
         {% if page.gpxstudio_url %}
         <br>
         <span class="gpx_link"><a href="{{ page.gpxstudio_url }}"><i class="fa-solid fa-map-location-dot"></i> Visa färdväg i gpx.studio</a>
