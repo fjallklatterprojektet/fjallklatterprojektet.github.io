@@ -3,6 +3,7 @@ layout: post
 title: Pårtetraversen
 author: Olle Eriksson
 date: 2026-09-04
+revised: 2026-09-05
 type: Turskildring
 summary: Pårtetraversen solo från söder till norr i ostadigt väder den 24:e augusti 2026.
 tags: [lappland, norrbotten, sarek, kvikkjokk, pårte, bårdde, pårtetjåkkå, bårddetjåhkkå, palkatjåkkå, bálgattjåhkkå, tvillingryggen, lullihatjåkkå, lulijtjåhkkå, vykortshaket, solo, scrambling]
@@ -32,7 +33,7 @@ Strax innan stigen nådde upp på kalfjället passerade jag några tält. Vinkad
 
 De senaste dygnen har jag inte sovit särskilt mycket. Efter nattens långkörning från Jämtland med efterföljande bussresa och sju timmars vandring är jag helt slut. Jag har fortfarande mobiltäckning, så jag kollar prognosen för morgondagen. Det ska bli mestadels uppehåll, men dimma och en del vind på höjd. Kanske lite nederbörd framåt kvällen. Eller kanske inte.
 
-Min tanke är att göra Pårtetraversen. Det är en lång kamvandring med inslag av klättring som slingrar sig fram över Pårtemassivets högsta toppar, i ungefärlig nord-sydlig riktning längs de kammar och ryggar som separerar Palkatjekna och Luottolako i väster från Pårtejekna i öster. Två av Sveriges 2000-meterstoppar, Pårtetjåkkå och Palkattjåkkå, passeras längs vägen, liksom den spektakulära Tvillingkammen och Lullihatjåkkå. Jag har varit på Pårtetjåkkås topp förut (den är tekniskt okomplicerad att ta sig upp på) men i övrigt har jag ingen bra uppfattning om traversens beskaffenhet. Jag har hört att den bitvis är mycket lös, och att det finns branta partier som kräver klättring och kanske också firning, att den ibland är luftig och exponerad. Men utöver det vet jag inte mycket.
+Min tanke är att göra Pårtetraversen. Det är en lång kamvandring med inslag av klättring som slingrar sig fram över Pårtemassivets högsta toppar, i ungefärlig nord-sydlig riktning längs de kammar och ryggar som separerar Palkatjekna och Luottolako i väster från Pårtejekna i öster. Två av Sveriges 2000-meterstoppar, Pårtetjåkkå och Palkattjåkkå, passeras längs vägen, liksom den spektakulära Tvillingkammen och Lullihatjåkkå. Jag har varit på Pårtetjåkkås topp förut (den är tekniskt okomplicerad att ta sig upp på) men i övrigt har jag ingen bra uppfattning om traversens beskaffenhet. Jag har läst (bland annat i Karl-Johan Piehls Sarekbok[^1]) att den bitvis är mycket lös, och att det finns branta partier som kräver klättring och kanske också firning, att den ibland är luftig och exponerad. Men utöver det vet jag inte mycket.
 
 Morgondagens väderprognos får mig att känna viss tvekan. Dålig sikt kombinerat med nederbörd och vind kan göra vad som annars hade varit en trevlig tur till något helt annat. Jag är dessutom ute själv. Försiktighet och riskmedvetenhet finns alltid med i kalkylen inför och under alpina äventyr, men när man klättrar solo blir utsattheten så mycket mer påtaglig, riskerna så mycket större. Dålig sikt kan innebära svårigheter att hitta säkra vägar ner om jag blir tvungen att avbryta klättringen. Nederbörd innebär blöta och hala stenar, kanske även is och snö på hög höjd. Risken att halka och skada sig ökar. Annars enkla klätterpassager kan snabbt bli svåra och otäcka. Och vind. Vind gör allting kallare och jobbigare.
 
@@ -90,9 +91,9 @@ När jag slutligen når fram till toppröset är klockan 16. Jag tar några bild
 
 {% include image.html url="/assets/images/2026-09-04-partetraversen/partetraversen_08.jpg" caption="Sista biten på väg mot Palkattjåkkås topp är sikten mycket dålig. Flera gånger tror jag mig se toppen, bara för att komma fram och se att fjällsidan fortsätter vidare uppåt." %}
 
-## Över Tvillingryggen
+## Ner igen och upp över Tvillingryggen
 
-Traversen fortsätter ner längs nordkammen, mot sadeln mellan Palkattjåkkå och Tvillingryggen. Jag har hört att den bitvis ska vara både brant och luftig, men den täta dimman tar effektivt bort all känsla av exponering och får nedfärden att kännas märkligt monoton. Firningsankare av gamla slingor och repsnören kröner de enstaka brantare partierna. Men de är aldrig mer än några meter höga, och jag klättrar förbi samtliga utan att behöva ta fram repet.
+Traversen fortsätter ner längs nordkammen, mot sadeln mellan Palkattjåkkå och Tvillingryggen. Jag har läst att den bitvis ska vara både brant och luftig, men den täta dimman tar effektivt bort all känsla av exponering och får nedfärden att kännas märkligt monoton. Firningsankare av gamla slingor och repsnören kröner de enstaka brantare partierna. Men de är aldrig mer än några meter höga, och jag klättrar förbi samtliga utan att behöva ta fram repet (kanske vetskapen att det var här någonstans som en klättrare omkom fem år tidigare i en tragisk firningsolycka[^2] också bidrar till att jag hellre klättrar än firar just här).
 
 Ungefär halvvägs ner mot sadeln lättar molntäcket något i väster. Tidigare gömda konturer och silhuetter dyker upp ur dimman. Först suddiga. Sedan skarpare. Under mig ser jag med ens Palkatjeknas is sträcka ut sig, och en stund senare öppnas ett fönster mot Luottolako mellan molnen. Så framträder en brant topp bortanför Palkatjekna. Det är den nordvästra av Tvillingryggens två toppar, och jag gläds åt att äntligen kunna betrakta en del av Pårtetraversen på avstånd, över att äntligen få en känsla för färdvägen som sträcker sig bortom det hala stenskravel som hela tiden omger mig. En förhoppning om att också den andra Tvillingryggstoppen kommer att träda fram ur dimman släcks dock genast då dimmorna på nytt drar in över nordkammen och effektivt utraderar utsikten.
 
@@ -151,3 +152,7 @@ Till slut kommer jag ner till sadeln strax sydöst om topp 1550. Härifrån föl
 Jag sätter mig vid bäcken i dalens botten. Käkar en flapjack och dricker girigt från bäcken (den liter jag tog med i morse, och som skulle räcka hela traversen, tog slut för ett par timmar sedan). Sätter på mig pannlampan. Njuter av att äntligen vara nedanför molnen, av att åtminstone för en stund kunna se omgivningarna innan det blir för mörkt. Märker att regnet har upphört. Jag kan inte minnas när.
 
 Vägen ner mot Sarvesvagge är enkel men tar ändå sin tid. Jag går inte riktigt hela vägen, utan hittar en bra tältplats på en mjuk rished redan där Lullihavagge och Nåitevagge möts. Strax efter midnatt har jag rest tältet. Nu kvarstår bara tvagning och matlagning innan det är dags för välbehövlig vila. Snart har en lång och innehållsrik dag nått sitt slut.
+
+[^1]: Piehl, Karl-Johan. (2022). *Sarek : Vandring, löpning och klättring med lättviktspackning*. Här måste jag erkänna att beskrivningen av Pårtetraversen i boken faktiskt är mycket utförlig, men att jag inför min tur mest hade tittat på bilderna. Klätterförbundet har till och med en [artikel om boken på sin hemsida](https://www.klatterforbundet.se/2022/03/10/ny-guidebok-over-vandring-och-klattring-i-sarek/){: .external } där ett par sidor om just Pårtetraversen finns återgivna.
+
+[^2]: Denna tragiska firningsolycka, som skedde i augusti 2021, beskrivs i detalj i en [artikel på Klätterförbundets hemsida](https://www.klatterforbundet.se/2022/01/12/firning-fran-pitong-lag-bakom-dodsolyckan-i-sarek-forra-aret/){: .external}.
