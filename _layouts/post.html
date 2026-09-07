@@ -62,7 +62,7 @@
               <button id="expand_tags_button" class="expand_button" type="button" aria-label="Expand tags" onclick="expandTags()">...</button>
               <span id="expandable_tags">
             {% endif %}
-            <a href="/arkiv.html?tag={{ tag | upcase }}">#{{ tag | upcase }}</a>
+            <a href="/arkiv.html?tag={{ tag | upcase }}">{{ tag | upcase }}</a>
             {% assign tag_counter = tag_counter | plus: 1 %}
           {% endfor %}
           {% if tag_counter >= 5 %}
