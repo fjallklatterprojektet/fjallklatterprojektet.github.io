@@ -28,7 +28,7 @@ scripts: /assets/js/search.js
       <span class="archive_tags">
         {% assign sorted_tags = post.tags | sort %}
         {% for tag in sorted_tags %}
-          <a href="#" onclick="addTagToSearchBox('{{ tag | upcase }}')">#{{ tag | upcase }}</a>
+          <a href="#" onclick="addTagToSearchBox('{{ tag | upcase }}')">{{ tag | upcase }}</a>
         {% endfor %}
       </span>
     </p>
