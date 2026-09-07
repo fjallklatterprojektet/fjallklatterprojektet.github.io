@@ -8,5 +8,6 @@ url: "https://fjallklatterprojektet.github.io/"
 timezone: "Europe/Stockholm"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 kramdown:
   footnote_backlink: ""
