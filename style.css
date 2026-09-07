@@ -311,3 +311,18 @@ button.expand_button {
 button.expand_button:hover {
   color: hotpink;
 }
+
+button.tag_button {
+  background: none;
+  border: 1px solid #444;
+  border-radius: 4px;
+  padding: 2;
+  font-family: inherit;
+  font-size: inherit;
+  color: #06f;
+  cursor: pointer;
+}
+
+button.tag_button:hover {
+  color: hotpink;
+}

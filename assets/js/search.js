@@ -30,7 +30,7 @@ function filterPostList(filterText)
 function addTagToSearchBox(tag)
 {
   input = document.getElementById("search_input");
-  input.value = removeDiacritics(tag);
+  input.value = tag;
   filterPostList(tag);
 }
 
