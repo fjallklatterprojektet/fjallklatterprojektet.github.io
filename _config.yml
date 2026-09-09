@@ -12,5 +12,7 @@ plugins:
 kramdown:
   footnote_backlink: ""
 exclude:
+  - Gemfile
+  - Gemfile.lock
   - README.md
   - TODO.md
