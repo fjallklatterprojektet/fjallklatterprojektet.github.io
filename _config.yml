@@ -16,3 +16,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - TODO.md
+  - tools
