@@ -20,7 +20,7 @@ Under nedstigningen från Helags i går gick det att se några av isarna, om än
 
 Vid tolv har vi rundat Helags sydrygg och börjar närma oss Predikstolen sydöstvägg. Flera av isarna syns nu tydligt. De tre mest framträdande — om jag har förstått det rätt så går *Highmark Hero* uppför den vänstra av dessa — finns till vänster om ett slags vag utbuktning i väggen. Direkt till höger om utbuktningen finns ytterligare några kortare isar som ser klätterbara ut, och utöver dessa kan man se flera mixade linjer som ser inbjudande men knepiga ut.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_01.jpg" caption="Snart framme vid Predikstolens sydöstvägg. Flera inbjudande isar har bildats." photo_credit="Ebba Orava" %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_01.jpg" caption="Snart framme vid Predikstolens sydöstvägg. Flera inbjudande isar har bildats." photo_credit="Ebba Orava" %}
 
 Jag stannar och kikar mot sluttningen nedanför väggen. Tycker mig kunna se spår av lavinaktivitet, men ljusförhållandena gör det svårt att säga säkert. Ser i vilket fall farligt ut. Får en olustig känsla. Tänker för hundrade gången att jag borde haft med mig en liten kikare, men vet inte om det egentligen hade gjort så stor skillnad i dag. Ebba kommer upp jämsides. Kikar också mot väggen.
 
@@ -32,7 +32,7 @@ Vi bestämmer oss i vilket fall för att fortsätta en bit till. Framför oss le
 
 Jag stannar till vid en stor sten strax innan ryggen brantar på och tar av skidorna. Här blir det bra att ta en rast. Ebba har en bit kvar, får sicksacka med turskidorna där jag kunde gå rakt upp. Jag slänger av mig ryggsäcken mot stenen, och hör ett märkligt ljud. Det låter ungefär som att stampa på ett kex. Suckar uppgivet inombords när jag inser att det jag hört är ljudet av min hjälm — som sitter fastspänd bakpå ryggsäcken — som har krossats mot stenen.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_02.jpg" caption="Fältlagning av hjälm. Den bör givetvis kasseras, men får duga tills vidare eftersom alternativet är att inte ha någon hjälm alls." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_02.jpg" caption="Fältlagning av hjälm. Den bör givetvis kasseras, men får duga tills vidare eftersom alternativet är att inte ha någon hjälm alls." %}
 
 Samlar ihop bitarna. De är förvånansvärt många. Hittar tejpen och börjar laga. Snart sitter hjälmen ihop igen. I alla fall hjälpligt. Antagligen fyller den inte sin funktion särskilt väl längre, men med lite tur kanske den åtminstone inte är direkt farligt att använda.
 
@@ -40,7 +40,7 @@ Ebba är framme vid stenen nu. Hon tar av skidorna och sätter sig att vila en s
 
 Under tiden passar jag på att ta mig närmare isarna. Jag tar på stegjärnen och skråar ut mot branten till vänster, och finner till min förvåning att den inte består av flak av vindtransporterad snö, utan istället är hård och isig. Lavinaktiviteten som vi såg spår av tidigare visar sig vara resterna av små lössnölaviner som har släppt från sluttningens övre del och bildat lavinkäglor ett hundratal meter längre ner. Jag går längre ut i branten. Mer hård och isig snö.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_03.jpg" caption="Topo för leden vi klättrade uppför Predikstolens sydöstvägg. Först klättrade vi löpande upp några meter från snösluttningen och etablerade standplats på en hylla. Sedan följde en ca. 45 meter lång replängd med klättring av grad WI2-WI3. Därefter en brantare och mer ihållande replängd på ca. 30 meter och grad WI3+." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_03.jpg" caption="Topo för leden vi klättrade uppför Predikstolens sydöstvägg. Först klättrade vi löpande upp några meter från snösluttningen och etablerade standplats på en hylla. Sedan följde en ca. 45 meter lång replängd med klättring av grad WI2-WI3. Därefter en brantare och mer ihållande replängd på ca. 30 meter och grad WI3+." %}
 
 När jag en stund senare kommer tillbaka till stenen där Ebba sitter har hon redan kvicknat till. Jag förklarar vad jag har observerat i branten. Vi överlägger, och trots våra tidigare betänkligheter kring lavinfaran så bestämmer oss för att knyta in oss och göra ett försök att ta oss upp till den närmaste — det vill säga den högra — av de tre isarna.
 
@@ -54,25 +54,25 @@ Jag samlar mig och klättrar upp ett par meter på isen till en hylla där jag s
 
 Ebba känner sig fortfarande hängig och är inte så sugen att leda, så jag tar täten. Första replängden består av några brantare partier med flackare, snötäckta hyllor emellan. Klättringen går snabbt. Isen är varken särskilt hård eller sprickbenägen. Yxorna och skruvarna sitter bra. Jag håller mig till höger, nära klippan, och når snart fram till en hylla nedanför en längre och brantare sektion där jag gör standplats.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_04.jpg" caption="Första replängden snart avklarad." photo_credit="Ebba Orava" %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_04.jpg" caption="Första replängden snart avklarad." photo_credit="Ebba Orava" %}
 
 Det någorlunda fina väder som vi hittills under dagen har kunnat njuta av har nu ersatts av ett lätt snöfall. Vi står i lä från vinden, men kan se hur den piskar upp snön från sluttningarna ovanför. Vita vimplar vajar från klippor och krön och ibland kommer rännilar av lössnö och farande nedför isen. Jag spänner åt huvan hårdare. Är tacksam för skidglasögonen i dag.
 
 Ebba kommer efter och är snart uppe. Hon klipper in sig i ankaret, räcker över några skruvar och börjar genast lägga repen till rätta inför andra replängden. Jag funderar över vilken linje jag ska följa. Isen är brant och klarblå ovanför oss. Efter ungefär femton, tjugo meter ser den ut att flacka av något, men mer än så ser vi från standplatsen.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_05.jpg" caption="Från en trivsam standplats på en hylla förbereder vi oss inför andra replängden." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_05.jpg" caption="Från en trivsam standplats på en hylla förbereder vi oss inför andra replängden." %}
 
 Jag klättrar uppåt med dragning åt vänster, dels för att freda Ebba från fallande is, dels för att nå ett slags grunt dieder som ser ut att kunna möjliggöra mer viktöverföring till fötterna. Pjäxorna är satta i åkläge, vilket hjälper till att avlasta vaderna och bidrar till att klättringen känns ovanligt avslappnad trots den ihållande branta och blanka isen. Jag jobbar mig metodiskt uppåt. Placerar skruvarna ganska tätt. Inom kort tassar jag försiktigt upp över en bula och kan stanna och pusta ut.
 
 Flackare nu. Först is och sedan mest snö. Fortsätter vidare, kanske ett tjugotal meter, tills klättringen övergår i flackare snöfält. Gräver efter is men det jag hittar duger inte till att sätta skruvar i. Klättrar istället ner en bit tills jag når fastare is. Bygger ett ankare och börjar borra en Abalakov för nedfärden medan jag säkrar Ebba som gör sig klar för att klättra.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_06.jpg" caption="Ebba följer andra — och sista — replängden i god stil." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_06.jpg" caption="Ebba följer andra — och sista — replängden i god stil." %}
 
 Med något sammanbiten min tar sig Ebba upp till standplatsen. Hon är fortfarande hängig. Har kämpat i dag. Gjort det bra. Vi är båda nöjda med att ha tagit oss upp men nu vill vi ner igen. Snön yr omkring oss. Tar en bild. Kollar klockan. Halv fyra. Börjar förbereda för firning. Knyter ihop repen, drar ena änden genom Abalakoven. En skruv som back-up.
 
 Jag är tyngst, så jag firar först. Tar mig ner till en lämplig hylla alldeles nära insteget och påbörjar omedelbart nästa Abalakov medan Ebba kommer efter. Nästa firning tar oss en bra bit ner i branten under väggen, varifrån vi raskt tar oss tillbaka till skidorna vid stenen.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_07.jpg" caption="Under eftermiddagen blir vädret sämre. Ebba har precis firat sig ner i snöbranten från isen, som plötsligt ser riktigt ogästvänlig ut." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_07.jpg" caption="Under eftermiddagen blir vädret sämre. Ebba har precis firat sig ner i snöbranten från isen, som plötsligt ser riktigt ogästvänlig ut." %}
 
 Vi snor på och skidar snart i behagligt utförsbacke ner mot Västra Helagssjön. Det blåser friskt, men vi har vinden i ryggen så det stör oss inte nämnvärt.
 
@@ -82,13 +82,13 @@ Så viker vi av österut genom ett småkuperat landskap samtidigt som molntäcke
 
 Ebba ger sitt medgivande. Vi stannar och betraktar skådespelet en stund, tar några bilder, sedan drar vi vidare. Då och då vänder jag blicken västerut. Förundras över prakten.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_08.jpg" caption="På hemvägen skingras molnen och solen gör entré just som den är i färd med att sjunka bakom fjälltopparna i väster." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_08.jpg" caption="På hemvägen skingras molnen och solen gör entré just som den är i färd med att sjunka bakom fjälltopparna i väster." %}
 
 Snart har solen gått ner, och vi skidar vidare österut genom ständigt skiftande ljusförhållanden. Färgerna är magiska, röda, rosa, orange. En stund lyser några pärlemormoln för oss. Sedan tänds stjärnorna, och en tunn månskära gör dem sällskap.
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_09.jpg" caption="Ebba glider fram i trolskt kvällsljus strax efter att solen har gått ner." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_09.jpg" caption="Ebba glider fram i trolskt kvällsljus strax efter att solen har gått ner." %}
 
-{% include image.html url="/assets/images/2025-09-23-sol-till-slut/sol-till-slut_10.jpg" caption="Några pärlemormoln smyckar kvällshimlen." %}
+{% include image.html url="/assets/images/2025-09-23-sol_till_slut/sol_till_slut_10.jpg" caption="Några pärlemormoln smyckar kvällshimlen." %}
 
 Så blir det mörkare, och hemvägen känns med ens onödigt lång. När vi till slut når fram till vinterleden gläds vi åt att det bara är ett par kilometer slakmota kvar upp till renstängslet innan det bär av utför ner mot fjällstationen.
 
