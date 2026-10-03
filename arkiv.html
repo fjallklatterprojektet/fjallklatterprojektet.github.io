@@ -18,15 +18,16 @@ scripts: /assets/js/search.js
 </script>
 
 <ul class="post_list" id="post_list">
-  {% for post in site.posts %}
+  {% for item in site.posts %}
   <li>
     <p>
       <span class="archive_link">
-        <a href="{{post.url}}"><em>{{post.title}}</em> [{{post.type}}] [Publicerad {{post.date | date: "%Y-%m-%d"}}]</a>
+        <a href="{{item.url}}"><em>{{item.title}}</em> [{{item.type}}] [Publicerad {{item.date | date: "%Y-%m-%d"}}]</a>
       </span>
-      {{post.summary}}
+      {{item.summary}}
+      {% if item.peakbook_url %}[<a href="{{item.peakbook_url}}" class="external">Summary in English on Peakbook</a>]{% endif %}
       <span class="archive_tags">
-        {% assign sorted_tags = post.tags | sort %}
+        {% assign sorted_tags = item.tags | sort %}
         {% for tag in sorted_tags %}
           <button type="button" class="tag_button" aria-label="Search for tag" onclick="addTagToSearchBox('{{ tag | upcase }}')">{{ tag | upcase }}</button>
         {% endfor %}
