@@ -6,6 +6,7 @@ date: 2026-10-03
 type: Turskildring
 summary: Solotravers från Rapadalen till Kukkesvagge över Svarta Spetsen och Sarektjåkkås fyra 2000-meterstoppar den 27:e augusti 2026.
 tags: [sarek, rapadalen, skarja, kukkesvagge, guhkesvágge, kassalako, gássaláhko, svarta spetsen, buchttoppen, sarektjåkkå, sydtoppen, stortoppen, nordtoppen, scrambling, klättring, solo]
+peakbook_url: https://peakbook.org/tour/639028/Solo+travers+across+the+four+2000+meter+peaks+of+Sarektj%C3%A5kk%C3%A5.html
 gpxstudio_url: https://gpx.studio/app?ids=%5B%22196eqnF8CKpfPE048b8tYpj07qmq0YwG5%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/196eqnF8CKpfPE048b8tYpj07qmq0YwG5/view?usp=drive_link
 ---
