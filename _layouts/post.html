@@ -44,6 +44,10 @@
         <br>
         <span class="date">Reviderad {{ page.revised | date: "%Y-%m-%d" }}</span>
         {% endif %}
+        {% if page.peakbook_url %}
+        <br>
+        <span class="peakbook_link"><a href="{{ page.peakbook_url }}" class="external"><i class="fa-solid fa-globe"></i> Link to post in English on Peakbook.org</a></span>
+        {% endif %}
         {% if page.gpxstudio_url %}
         <br>
         <span class="gpx_link"><a href="{{ page.gpxstudio_url }}" class="external"><i class="fa-solid fa-map-location-dot"></i> Visa färdväg i gpx.studio</a>

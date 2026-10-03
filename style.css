@@ -134,20 +134,20 @@ p.summary {
   font-style: italic;
 }
 
-span.gpx_link a.external {
+span.gpx_link a.external, span.peakbook_link a.external {
   font-family: "Roboto Condensed", sans-serif;
   color: #444;
 }
 
-span.gpx_link a.external:after {
+span.gpx_link a.external:after, span.peakbook_link a.external:after {
   background-color: #444;
 }
 
-span.gpx_link a.external:hover {
+span.gpx_link a.external:hover, span.peakbook_link a.external:hover {
   color: hotpink;
 }
 
-span.gpx_link a.external:hover:after {
+span.gpx_link a.external:hover:after, span.peakbook_link a.external:hover:after {
   background-color: hotpink;
 }
 
