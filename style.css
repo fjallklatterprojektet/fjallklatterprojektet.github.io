@@ -68,9 +68,21 @@ a {
 }
 
 a.external {
-  background: url("/assets/images/external_link_arrow.svg") no-repeat scroll right transparent;
-  background-size: 0.6em 0.6em;
+  color: #06f;
+}
+
+a.external:after {
+  background-color: #06f;
   padding-right: 0.8em;
+  content: "";
+  width: 100%;
+  height: 100%;
+  -webkit-mask-image: url("/assets/images/external_link_arrow.svg");
+  mask-image: url("/assets/images/external_link_arrow.svg");
+  mask-repeat: no-repeat;
+  mask-position: right;
+  mask-size: 0.6em 0.6em;
+  mask-clip: text;
 }
 
 a.external:link {
@@ -84,9 +96,10 @@ a.external:visited {
 a.external:hover {
   color: hotpink;
   text-decoration: underline;
-  background: url("/assets/images/external_link_arrow_hover.svg") no-repeat scroll right transparent;
-  background-size: 0.6em 0.6em;
-  padding-right: 0.8em;
+}
+
+a.external:hover:after {
+  background-color: hotpink;
 }
 
 p {
@@ -121,13 +134,21 @@ p.summary {
   font-style: italic;
 }
 
-span.gpx_link a {
+span.gpx_link a.external {
   font-family: "Roboto Condensed", sans-serif;
   color: #444;
 }
 
-span.gpx_link a:hover {
+span.gpx_link a.external:after {
+  background-color: #444;
+}
+
+span.gpx_link a.external:hover {
   color: hotpink;
+}
+
+span.gpx_link a.external:hover:after {
+  background-color: hotpink;
 }
 
 span.author {
