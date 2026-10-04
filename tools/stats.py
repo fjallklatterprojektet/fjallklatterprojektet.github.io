@@ -17,7 +17,7 @@ def extract_text_from_html(file_path):
     return "".join(main_soup.find_all(string=True)) if main_soup else ""
 
 def nltk_tokenize_words(text):
-    return [word for word in word_tokenize(text) if len(word) > 1 or word.isalpha()]
+    return [word for word in word_tokenize(text.lower()) if len(word) > 1 or word.isalpha()]
 
 def nltk_word_count(text):
     return len(nltk_tokenize_words(text))
@@ -34,6 +34,14 @@ def lix(text):
     sentence_count = nltk_sentence_count(text)
     if word_count > 0 and sentence_count > 0:
         return word_count / sentence_count + 100 * long_word_count / word_count
+    else:
+        return 0
+
+def ttr(text):
+    word_count = nltk_word_count(text)
+    unique_words = len(set(nltk_tokenize_words(text)))
+    if word_count > 0:
+        return unique_words / word_count
     else:
         return 0
 
@@ -56,6 +64,7 @@ word_counts_nltk = list(map(lambda t: nltk_word_count(t), texts))
 long_word_counts_nltk = list(map(lambda t: nltk_long_word_count(t), texts))
 sentence_counts_nltk = list(map(lambda t: nltk_sentence_count(t), texts))
 lix_scores = list(map(lambda t: round(lix(t)), texts))
+ttr = list(map(lambda t: ttr(t), texts))
 
 data = {
     "Word Count (textstat)": word_counts_textstat,
@@ -63,7 +72,8 @@ data = {
     "Long Word Count (nltk)": long_word_counts_nltk,
     "Sentence Count (textstat)": sentence_counts_textstat,
     "Sentence Count (nltk)": sentence_counts_nltk,
-    "LIX": lix_scores
+    "LIX": lix_scores,
+    "TTR": ttr
 }
 
 df = pd.DataFrame(data, map(os.path.basename, html_files))
