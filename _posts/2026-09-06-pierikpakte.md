@@ -6,6 +6,7 @@ date: 2026-09-06
 type: Turskildring
 summary: Solobestiging av Pierikpakte via sydkammen den 26:e augusti 2026.
 tags: [sarek, pielavalta, pierikpakte, bierikbákte, äpar, ähpar, nilas kam, klättring, scrambling, solo]
+peakbook_url: https://peakbook.org/tour/639517/South+Ridge+of+Bierikb%C3%A1kte.html
 gpxstudio_url: https://gpx.studio/app?ids=%5B%221c_RbmebDbq_kVoWEIvpHv2Wczv47fnvb%22%5D
 googledrive_gpx_url: https://drive.google.com/file/d/1c_RbmebDbq_kVoWEIvpHv2Wczv47fnvb/view?usp=drive_link
 ---
