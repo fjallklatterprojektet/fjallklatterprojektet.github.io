@@ -3,14 +3,18 @@ html {
 }
 
 body {
-  margin: 0px auto 40px;
   max-width: 720px;
+  margin: 0px auto 40px;
+  padding: 0px 0px;
   line-height: 1.6;
   font-size: 20px;
   font-family: "EB Garamond", serif;
   color: #444;
-  padding: 0px 10px;
   background-color: #eee;
+}
+
+#page_wrapper {
+  padding: 0px 10px;
 }
 
 header {

@@ -31,63 +31,65 @@
         <a href="/feed.xml" aria-label="RSS"><i class="fa-solid fa-square-rss"></i></a>
       </span>
     </nav>
-    <header>
-      <h1>{{ page.title }}</h1>
-      {% if page.summary %}
-      <p class="summary">{{ page.summary }}</p>
-      {% endif %}
-      <p>
-        <span class="author"><a href="mailto:fjallklatterprojektet@gmail.com">{{ page.author }}</a></span>
-        <br>
-        <span class="date">Publicerad {{ page.date | date: "%Y-%m-%d" }}</span>
-        {% if page.revised %}
-        <br>
-        <span class="date">Reviderad {{ page.revised | date: "%Y-%m-%d" }}</span>
+    <div id="page_wrapper">
+      <header>
+        <h1>{{ page.title }}</h1>
+        {% if page.summary %}
+        <p class="summary">{{ page.summary }}</p>
         {% endif %}
-        {% if page.peakbook_url %}
-        <br>
-        <span class="peakbook_link"><a href="{{ page.peakbook_url }}" class="external"><i class="fa-solid fa-globe"></i> Summary in English on Peakbook</a></span>
-        {% endif %}
-        {% if page.gpxstudio_url %}
-        <br>
-        <span class="gpx_link"><a href="{{ page.gpxstudio_url }}" class="external"><i class="fa-solid fa-map-location-dot"></i> Visa färdväg i gpx.studio</a>
-        {% endif %}
-        {% if page.googledrive_gpx_url %}
-        <br>
-        <span class="gpx_link"><a href="{{ page.googledrive_gpx_url }}" class="external"><i class="fa-brands fa-google-drive"></i> GPX-fil med färdväg på Google Drive</a></span>
-        {% endif %}
-        {% if page.tags and page.tags.size > 0 %}
-        <br>
-          <span class="tags">
-          <i class="fa-solid fa-tag"></i> Taggar:
-          {% assign sorted_tags = page.tags | sort %}
-          {% assign tag_counter = 0 %}
-          {% for tag in sorted_tags %}
-            {% if tag_counter == 5 %}
-              <button id="expand_tags_button" class="expand_button" type="button" aria-label="Expand tags" onclick="expandTags()">...</button>
-              <span id="expandable_tags">
-            {% endif %}
-            <a href="/arkiv.html?tag={{ tag | upcase }}">{{ tag | upcase }}</a>
-            {% assign tag_counter = tag_counter | plus: 1 %}
-          {% endfor %}
-          {% if tag_counter >= 5 %}
-            <span id="asd">
+        <p>
+          <span class="author"><a href="mailto:fjallklatterprojektet@gmail.com">{{ page.author }}</a></span>
+          <br>
+          <span class="date">Publicerad {{ page.date | date: "%Y-%m-%d" }}</span>
+          {% if page.revised %}
+          <br>
+          <span class="date">Reviderad {{ page.revised | date: "%Y-%m-%d" }}</span>
           {% endif %}
-          </span>
-        {% endif %}
-      </p>
-    </header>
-    <main>
-    {{ content }}
-    </main>
-    <footer>
-      <nav class="footer_links">
-        <a href="http://instagram.com/_u/{{ site.instagram_username }}/" aria-label="Instagram"><i class="fa-brands fa-square-instagram"></i></a>
-        <a href="https://www.youtube.com/@Fj%C3%A4llkl%C3%A4tterprojektet" aria-label="YouTube"><i class="fa-brands fa-square-youtube"></i></a>
-        <a href="https://github.com/fjallklatterprojektet" aria-label="GitHub"><i class="fa-brands fa-square-github"></i></a>
-        <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fa fa-square-envelope"></i></a>
-        <a href="/feed.xml" aria-label="RSS"><i class="fa-solid fa-square-rss"></i></a>
-      </nav>
-    </footer>
+          {% if page.peakbook_url %}
+          <br>
+          <span class="peakbook_link"><a href="{{ page.peakbook_url }}" class="external"><i class="fa-solid fa-globe"></i> Summary in English on Peakbook</a></span>
+          {% endif %}
+          {% if page.gpxstudio_url %}
+          <br>
+          <span class="gpx_link"><a href="{{ page.gpxstudio_url }}" class="external"><i class="fa-solid fa-map-location-dot"></i> Visa färdväg i gpx.studio</a>
+          {% endif %}
+          {% if page.googledrive_gpx_url %}
+          <br>
+          <span class="gpx_link"><a href="{{ page.googledrive_gpx_url }}" class="external"><i class="fa-brands fa-google-drive"></i> GPX-fil med färdväg på Google Drive</a></span>
+          {% endif %}
+          {% if page.tags and page.tags.size > 0 %}
+          <br>
+            <span class="tags">
+            <i class="fa-solid fa-tag"></i> Taggar:
+            {% assign sorted_tags = page.tags | sort %}
+            {% assign tag_counter = 0 %}
+            {% for tag in sorted_tags %}
+              {% if tag_counter == 5 %}
+                <button id="expand_tags_button" class="expand_button" type="button" aria-label="Expand tags" onclick="expandTags()">...</button>
+                <span id="expandable_tags">
+              {% endif %}
+              <a href="/arkiv.html?tag={{ tag | upcase }}">{{ tag | upcase }}</a>
+              {% assign tag_counter = tag_counter | plus: 1 %}
+            {% endfor %}
+            {% if tag_counter >= 5 %}
+              <span id="asd">
+            {% endif %}
+            </span>
+          {% endif %}
+        </p>
+      </header>
+      <main>
+      {{ content }}
+      </main>
+      <footer>
+        <nav class="footer_links">
+          <a href="http://instagram.com/_u/{{ site.instagram_username }}/" aria-label="Instagram"><i class="fa-brands fa-square-instagram"></i></a>
+          <a href="https://www.youtube.com/@Fj%C3%A4llkl%C3%A4tterprojektet" aria-label="YouTube"><i class="fa-brands fa-square-youtube"></i></a>
+          <a href="https://github.com/fjallklatterprojektet" aria-label="GitHub"><i class="fa-brands fa-square-github"></i></a>
+          <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fa fa-square-envelope"></i></a>
+          <a href="/feed.xml" aria-label="RSS"><i class="fa-solid fa-square-rss"></i></a>
+        </nav>
+      </footer>
+    </div>
   </body>
 </html>
