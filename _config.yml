@@ -18,3 +18,5 @@ exclude:
   - TODO.md
   - tools
   - peakbook_posts
+features:
+  sticky-navbar: true
