@@ -1,6 +1,24 @@
 ---
 ---
 
+:root {
+  --light-gray: #eee;
+  --dark-gray: #444;
+  --black-transparent: rgba(0, 0, 0, 0.5);
+  --blue: #06f;
+  --pink: hotpink;
+
+  --background: var(--light-gray);
+  --border: var(--dark-gray);
+  --shadow: var(--black-transparent);
+  --text: var(--dark-gray);
+  --text-link: var(--blue);
+  --text-link-hover: var(--pink);
+  --text-light: var(--light-gray);
+  --text-light-background: var(--dark-gray);
+  --text-light-background-hover: var(--pink);
+}
+
 html {
   overflow-y: scroll;
 }
@@ -12,8 +30,8 @@ body {
   line-height: 1.6;
   font-size: 20px;
   font-family: "EB Garamond", serif;
-  color: #444;
-  background-color: #eee;
+  color: var(text);
+  background-color: var(--background);
 }
 
 #page_wrapper {
@@ -22,19 +40,19 @@ body {
 
 header {
   margin-bottom: 0.5em;
-  border-bottom: 4px dotted #444;
+  border-bottom: 4px dotted var(--dark-gray);
 }
 
 footer {
   margin-top: 0.5em;
-  border-top: 4px dotted #444;
+  border-top: 4px dotted var(--dark-gray);
 }
 
 h1, h2, h3 {
   font-family: "Roboto Condensed", sans-serif;
   font-weight: 700;
   line-height: 1;
-  color: #444;
+  color: var(--dark-gray);
   margin-top: 0.5em;
 }
 
@@ -55,19 +73,19 @@ h3 a:visited {
 }
 
 h3 a:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
   text-decoration: inherit;
 }
 
 h3 em {
-  color: #eee;
+  color: var(--text-light);
   font-style: inherit;
-  background-color: #444;
+  background-color: var(--text-light-background);
   border-radius: 4px;
 }
 
 h3 a:hover em {
-  background-color: hotpink;
+  background-color: var(--text-light-background-hover);
 }
 
 a {
@@ -75,11 +93,11 @@ a {
 }
 
 a.external {
-  color: #06f;
+  color: var(--text-link);
 }
 
 a.external:after {
-  background-color: #06f;
+  background-color: var(--text-link);
   padding-right: 0.8em;
   content: "";
   -webkit-mask-image: url("/assets/images/external_link_arrow.svg");
@@ -90,20 +108,20 @@ a.external:after {
 }
 
 a.external:link {
-  color: #06f;
+  color: var(--text-link);
 }
 
 a.external:visited {
-  color: #06f;
+  color: var(--text-link);
 }
 
 a.external:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
   text-decoration: underline;
 }
 
 a.external:hover:after {
-  background-color: hotpink;
+  background-color: var(--text-link-hover);
 }
 
 p {
@@ -113,15 +131,15 @@ p {
 }
 
 p a:link {
-  color: #06f;
+  color: var(--text-link);
 }
 
 p a:visited {
-  color: #06f;
+  color: var(--text-link);
 }
 
 p a:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
   text-decoration: underline;
 }
 
@@ -140,26 +158,26 @@ p.summary {
 
 span.gpx_link a.external, span.peakbook_link a.external {
   font-family: "Roboto Condensed", sans-serif;
-  color: #444;
+  color: var(--text);
 }
 
 span.gpx_link a.external:after, span.peakbook_link a.external:after {
-  background-color: #444;
+  background-color: var(--text);
 }
 
 span.gpx_link a.external:hover, span.peakbook_link a.external:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
 }
 
 span.gpx_link a.external:hover:after, span.peakbook_link a.external:hover:after {
-  background-color: hotpink;
+  background-color: var(--text-link-hover);
 }
 
 span.author {
-  color: #eee;
+  color: var(--text-light);
   font-family: "Roboto Condensed", sans-serif;
   font-style: inherit;
-  background-color: #444;
+  background-color: var(--text-light-background);
   border-radius: 4px;
 }
 
@@ -172,7 +190,7 @@ span.author a:visited {
 }
 
 span.author a:hover {
-  background-color: hotpink;
+  background-color: var(--text-light-background-hover);
   text-decoration: inherit;
 }
 
@@ -182,15 +200,15 @@ span.tags {
 }
 
 span.tags a:link {
-  color: #06f;
+  color: var(--text-link);
 }
 
 span.tags a:visited {
-  color: #06f;
+  color: var(--text-link);
 }
 
 span.tags a:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
   text-decoration: underline;
 }
 
@@ -200,7 +218,7 @@ span.date {
 
 span.archive_link a {
   font-family: "Roboto Condensed", sans-serif;
-  color: #444;
+  color: var(--text);
 }
 
 span.archive_link a:link {
@@ -212,19 +230,19 @@ span.archive_link a:visited {
 }
 
 span.archive_link a:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
   text-decoration: none;
 }
 
 span.archive_link em {
-  color: #eee;
+  color: var(--text-light);
   font-style: inherit;
-  background-color: #444;
+  background-color: var(--text-light-background);
   border-radius: 4px;
 }
 
 span.archive_link a:hover em {
-  background-color: hotpink;
+  background-color: var(--text-light-background-hover);
 }
 
 span.archive_tags {
@@ -236,7 +254,7 @@ span.archive_tags {
   display: flex;
   align-items: center;
   padding: 0px 10px;
-  background-color: #eee;
+  background-color: inherit;
 }
 
 {% if site.features.sticky-navbar %}
@@ -244,7 +262,7 @@ span.archive_tags {
   .navigation_container {
     position: sticky;
     top: 0;
-    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 3px 3px var(--shadow);
     z-index: 999;
   }
 }
@@ -256,24 +274,24 @@ span.archive_tags {
 
 .navigation_bar a {
   font-family: "Roboto Condensed", sans-serif;
-  background-color: #444;
+  background-color: var(--text-light-background);
   border-radius: 4px;
-  color: #eee;
+  color: var(--text-light);
   white-space: nowrap;
 }
 
 .navigation_bar a:hover {
-  background-color: hotpink;
+  background-color: var(--text-light-background-hover);
 }
 
 .header_links a {
   font-family: "Roboto Condensed", sans-serif;
   font-size: larger;
-  color: #444;
+  color: var(--text);
 }
 
 .header_links a:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
 }
 
 .footer_links {
@@ -284,11 +302,11 @@ span.archive_tags {
 .footer_links a {
   font-family: "Roboto Condensed", sans-serif;
   font-size: larger;
-  color: #444;
+  color: var(--text);
 }
 
 .footer_links a:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
 }
 
 img {
@@ -331,7 +349,7 @@ div.footnotes {
   color: inherit;
   background-color: inherit;
   padding: 0.2em 0.5em;
-  border: 2px solid #444;
+  border: 2px solid var(--border);
   border-radius: 8px;
   margin-bottom: 1em;
 }
@@ -343,25 +361,25 @@ button.expand_button {
   padding: 0;
   font-family: inherit;
   font-size: inherit;
-  color: #06f;
+  color: var(--text-link);
   cursor: pointer;
 }
 
 button.expand_button:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
 }
 
 button.tag_button {
   background: none;
-  border: 1px solid #444;
+  border: 1px solid var(--border);
   border-radius: 4px;
   padding: 2;
   font-family: inherit;
   font-size: inherit;
-  color: #06f;
+  color: var(--text-link);
   cursor: pointer;
 }
 
 button.tag_button:hover {
-  color: hotpink;
+  color: var(--text-link-hover);
 }
