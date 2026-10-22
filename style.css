@@ -90,6 +90,8 @@ h3 a:hover em {
 
 a {
   text-decoration: none;
+  overflow-wrap: break-word;
+  word-break: break-all;
 }
 
 a.external {
