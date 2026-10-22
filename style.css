@@ -130,15 +130,15 @@ p {
   text-indent: 0em;
 }
 
-p a:link {
+p a:link, ul#markdown-toc a:link {
   color: var(--text-link);
 }
 
-p a:visited {
+p a:visited, ul#markdown-toc a:visited {
   color: var(--text-link);
 }
 
-p a:hover {
+p a:hover, ul#markdown-toc a:hover {
   color: var(--text-link-hover);
   text-decoration: underline;
 }
@@ -146,6 +146,11 @@ p a:hover {
 ul.post_list {
   list-style: none;
   padding-left: 0;
+}
+
+ul#markdown-toc, ul#markdown-toc ul {
+  list-style: none;
+  padding-left: 1em;
 }
 
 p.block_indent {

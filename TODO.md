@@ -3,9 +3,10 @@
 ## TODO
 * Add support for fuzzy string search
 * Build tool to generate schematic maps of ridges and summits
-* Add support for clickable table of contents for posts
+* Investigate how schema.org can be used with Jekyll to improve search engine understanding
 
 ## DONE
+* Add support for clickable table of contents for posts
 * Build tool to show post statistics, such as word count
 * Add ellipsis button to expand tags
 * Add Apple Touch Icon support

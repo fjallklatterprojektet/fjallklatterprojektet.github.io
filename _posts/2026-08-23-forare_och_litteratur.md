@@ -5,15 +5,24 @@ author: Olle Eriksson
 date: 2026-08-23
 revised: 2026-10-21
 type: Bibliografi
-summary: Översikt över förare och litteratur som berör svensk fjällklättring.
+summary: Översikt över förare, litteratur och andra källor som berör svensk fjällklättring.
 ---
 
-På denna sida har jag tänkt sammanställa en översikt över förare och litteratur som berör klättring i alla dess former i hela den svenska fjällkedjan. Sidan är ett pågående arbete och kommer att kompletteras efter hand.
+## Innehåll
+{:.no_toc}
+
+* TOC
+{:toc}
+
+## Inledning
+
+På denna sida har jag tänkt sammanställa en översikt över förare, litteratur och andra källor som berör klättring i alla dess former i hela den svenska fjällkedjan. Sidan är ett pågående arbete och kommer att kompletteras efter hand.
 
 ## Dalarna
 
-* [Klätterförare över norra Dalarna](https://dalarnasklatterklubb.se/norra-dalarna-forare/){: .external}.
-* Anton Levein. Isklättring i Sverige.
+De mjukt rundade fjällen i Dalarna lämpar sig mer för vandring och skidåkning än klättring. Det mest slående undantaget är vattenfallet Njupeskär, som på vintern ofta erbjuder fin isklättring, och som beskrivs i både Jörgen Lundgrens *Klätterförare över norra Dalarna*[^klatterforare_norra_dalarna] ([länk till sida med nedladdningsbar pdf](https://dalarnasklatterklubb.se/norra-dalarna-forare/){: .external}) och i Anton Leveins guide [Isklättring i Sverige](https://iceclimbing.info/){: .external}.[^isklattring_i_sverige]
+
+För skidåkaren finns ett par toppturer i Dalarna beskrivna i  *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*.[^svenska_toppturer]
 
 ## Jämtland och Härjedalen
 
@@ -34,23 +43,19 @@ På denna sida har jag tänkt sammanställa en översikt över förare och litte
 
 ### Sarek och Akka
 
-Så vitt jag vet finns det ingen renodlad klätterförare för Sarek. Det finns däremot flera källor som tangerar ämnet.
+Så vitt jag vet finns det ingen renodlad klätterförare för Sarek och Akka. Det finns däremot flera källor som tangerar ämnet.
 
-För en överblick över området (inklusive Akka) är Tore Abrahamssons klassiker *Detta är Sarek*[^1] en oumbärlig resurs. Här hittar man överskådliga förteckningar över toppar och klätterleder med datum för förstabestigningar, namn på förstabestigare samt referenser till turbeskrivningar, grupperade efter de olika fjällmassiven på ett lättbegripligt sätt. Rikligt med fotografier (inklusive flygfotografier) samt enastående massivkartor berikar och underlättar läsningen.
+För en överblick över området (inklusive Akka) är Tore Abrahamssons klassiker *Detta är Sarek*[^detta_ar_sarek] en oumbärlig resurs. Här hittar man överskådliga förteckningar över toppar och klätterleder med datum för förstabestigningar, namn på förstabestigare samt referenser till turbeskrivningar, grupperade efter de olika fjällmassiven på ett lättbegripligt sätt. Rikligt med fotografier (inklusive flygfotografier) samt enastående massivkartor berikar och underlättar läsningen.
 
-En annan typ av överblick ges i Karl-Johan Piehls *Sarek: Vandring, löpning och klättring med lättviktspackning*[^2]. Klättringen får här stå tillbaka för vandringen och löpningen, men ett antal leder som innehåller moment av scrambling och klättring finns beskrivna i stor detalj, däribland klassiska utflykter som Pårtetraversen, Pierikpakte och diverse turer i Sarektjåkkåmassivet.
+En annan typ av överblick ges i Karl-Johan Piehls *Sarek: Vandring, löpning och klättring med lättviktspackning*[^sarek_vandring_lopning_och_klattring]. Klättringen får här stå tillbaka för vandringen och löpningen, men ett antal leder som innehåller moment av scrambling och klättring finns beskrivna i stor detalj, däribland klassiska utflykter som Pårtetraversen, Pierikpakte och diverse turer i Sarektjåkkåmassivet.
 
-Anton Leveins projekt [Isklättring i Sverige](https://iceclimbing.info/){: .external}[^3] har samlat in ledbeskrivningar för ett antal turer i Sarek och Akka. Här finner man is- och vinterklättring sida vid sida med sommaralpinism.
+Anton Leveins projekt [Isklättring i Sverige](https://iceclimbing.info/){: .external}[^isklattring_i_sverige] har samlat in ledbeskrivningar för ett antal turer i Sarek och Akka. Här finner man is- och vinterklättring sida vid sida med sommaralpinism.
 
-Redan 1922 publicerades Axel Hambergs *Sarekfjällen : Vägledning för färder i högfjällen mellan Lule älvs källarmar*,[^4] ([länk till inskannad version](http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf){: .external}) som trots att den är över 100 år gammal likväl är ett nöje att läsa. För klättraren som är ute efter moderna ledbeskrivningar finns här inte mycket att hämta, men mängder av färdvägar och bestigningar avhandlas här på ett både kompakt och fantasieggande sätt, och rikligt med annoterade fotografier förhöjer läsupplevelsen och ger en spännande inblick i hur fjällfärder i dessa trakter kunde gå till vid tiden kring förra sekelskiftet.
+Redan 1922 publicerades Axel Hambergs *Sarekfjällen : Vägledning för färder i högfjällen mellan Lule älvs källarmar*,[^sarekfjallen] ([länk till inskannad version](http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf){: .external}) som trots att den är över 100 år gammal likväl är ett nöje att läsa. För klättraren som är ute efter moderna ledbeskrivningar finns här inte mycket att hämta, men mängder av färdvägar och bestigningar avhandlas här på ett både kompakt och fantasieggande sätt, och rikligt med annoterade fotografier förhöjer läsupplevelsen och ger en spännande inblick i hur fjällfärder i dessa trakter kunde gå till vid tiden kring förra sekelskiftet.
 
-För toppturer i Sarek på vintern är *Sarek vinterguide: Toppturer och turskidåkning i Sareks nationalpark*,[^5] skriven av Joel Karlberg, Petter Lämås och Josef Larsson, svårslagen. Här ligger fokus på utförsåkningen, men några toppturer av mer teknisk karaktär finns också med, däribland Saitaristjåkkå och Pierikpakte.
+För toppturer i Sarek på vintern är *Sarek vinterguide: Toppturer och turskidåkning i Sareks nationalpark*,[^sarek_vinterguide] skriven av Joel Karlberg, Petter Lämås och Josef Larsson, svårslagen. Här ligger fokus på utförsåkningen, men några toppturer av mer teknisk karaktär finns också med, däribland Saitaristjåkkå och Pierikpakte.
 
-I topptursguiden *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*[^6] beskrivs bara en tur i Sarek, nämligen Stora Sarektraversen. Däremot beskrivs flera turer i angränsande Tarrekaise, Akka och Stora Sjöfallet, samtliga dock utan tekniska klättermoment. Den något äldre guiden *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*[^7] utelämnar Sarek helt, men innehåller några turer i Akka och Stora Sjöfallet. Inte heller här beskrivs någon klättring i egentlig mening.
-
-Övrigt:
-
-* Anette Andersson, Johan Ranbrandt och Henrik Westling. Toppturer i Sverige.
+I topptursguiden *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*[^toppturer_i_sverige] beskrivs bara en tur i Sarek, nämligen Stora Sarektraversen. Däremot beskrivs flera turer i angränsande Tarrekaise, Akka och Stora Sjöfallet, samtliga dock utan tekniska klättermoment. Den något äldre guiden *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*[^svenska_toppturer] utelämnar Sarek helt, men innehåller några turer i Akka och Stora Sjöfallet. Inte heller här beskrivs någon klättring i egentlig mening.
 
 ### Kebnekaise
 
@@ -74,20 +79,24 @@ I topptursguiden *Toppturer i Sverige: Över 100 toppar och fler än 220 utförs
 
 ## Bibliografi
 
-[^1]: Tore Abrahamsson. (1973). *Detta är Sarek* (1 uppl.). Rabén & Sjögren.
+[^klatterforare_norra_dalarna]: Jörgen Lundgren. (2003). *Klätterförare över norra Dalarna*.
+
+    [Länk till nedladdningsbar pdf-version på Dalarnas klätterklubbs hemsida](https://dalarnasklatterklubb.se/norra-dalarna-forare/){: .external}.
+
+[^isklattring_i_sverige]: Anton Levein. [Isklättring i Sverige](https://iceclimbing.info/){: .external}.
+
+[^detta_ar_sarek]: Tore Abrahamsson. (1973). *Detta är Sarek* (1 uppl.). Rabén & Sjögren.
 
     Finns även i en andra (1982) och tredje (1993) upplaga, som är reviderade och kompletterade med nytillkommen information om bl.a. förstabestigningar.
 
-[^2]: Karl-Johan Piehl. (2022). *Sarek: Vandring, löpning och klättring med lättviktspackning*. Piehl B.
+[^sarek_vandring_lopning_och_klattring]: Karl-Johan Piehl. (2022). *Sarek: Vandring, löpning och klättring med lättviktspackning*. Piehl B.
 
-[^3]: Anton Levein. [Isklättring i Sverige](https://iceclimbing.info/){: .external}.
-
-[^4]: Axel Hamberg. (1922). *Sarekfjällen : Vägledning för färder i högfjällen mellan Lule älvs källarmar*. Wahlström & Widstrand.
+[^sarekfjallen]: Axel Hamberg. (1922). *Sarekfjällen : Vägledning för färder i högfjällen mellan Lule älvs källarmar*. Wahlström & Widstrand.
 
     Finns inskannad här: [http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf](http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf){: .external}.
 
-[^5]: Joel Karlberg, Petter Lämås, Josef Larsson. (2010). *Sarek vinterguide: Toppturer och turskidåkning i Sareks nationalpark*. Calazo.
+[^sarek_vinterguide]: Joel Karlberg, Petter Lämås, Josef Larsson. (2010). *Sarek vinterguide: Toppturer och turskidåkning i Sareks nationalpark*. Calazo.
 
-[^6]: Anette Andersson, Johan Ranbrandt, Henrik Westling. (2024). *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*. Calazo.
+[^toppturer_i_sverige]: Anette Andersson, Johan Ranbrandt, Henrik Westling. (2024). *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*. Calazo.
 
-[^7]: Fredrik Hjelmstedt, Jonas Sundvall. (2004). *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*. Calazo.
+[^svenska_toppturer]: Fredrik Hjelmstedt, Jonas Sundvall. (2004). *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*. Calazo.
