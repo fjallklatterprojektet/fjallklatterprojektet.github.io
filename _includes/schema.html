@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  {% if page.layout == "post" %}
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  {% if page.last_modified_at %}
+  "dateModified": {{ page.revised | date_to_xmlschema | jsonify }},
+  {% endif %}
+  "description": {{ page.summary | default: page.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author | default: site.author.name | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.logo | absolute_url | jsonify }}
+    }
+  }
+  {% else %}
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "description": {{ site.description | jsonify }}
+  {% endif %}
+}
+</script>

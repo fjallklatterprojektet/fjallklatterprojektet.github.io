@@ -1,7 +1,10 @@
 title: "Fjällklätterprojektet"
 email: "fjallklatterprojektet@gmail.com"
 instagram_username: "fjallklatterprojektet"
-description: "Fjällklätterprojektets hemsida"
+description: "Svenska fjällklätterprojektet har som mål att återupptäcka, dokumentera och tillgängliggöra information om svensk fjällklättring."
+author:
+  name: "Olle Eriksson"
+logo: "/assets/icons/logo.png"
 baseurl: ""
 permalink: /:title.html
 url: "https://fjallklatterprojektet.github.io"
