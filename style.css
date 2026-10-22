@@ -91,7 +91,7 @@ h3 a:hover em {
 a {
   text-decoration: none;
   overflow-wrap: break-word;
-  word-break: break-all;
+  word-break: normal;
 }
 
 a.external {
