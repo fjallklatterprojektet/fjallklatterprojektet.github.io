@@ -24,7 +24,7 @@ De mjukt rundade fjällen i Dalarna lämpar sig mer för vandring och skidåknin
 
 För skidåkaren finns ett par toppturer i Dalarna beskrivna i  *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*.[^svenska_toppturer]
 
-## Jämtland och Härjedalen <i class="fa-solid fa-person-digging"></i>
+## Jämtland och Härjedalen
 
 * Klätterförare över Jämtland.[^klatterforare_over_jamtland] Finns delvis inskannad på [Östersunds Klätterklubbs hemsida](https://ostersundskk.se/klatterforare/){: .external}.
 * Anton Levein. Isklättring i Sverige.
@@ -32,7 +32,7 @@ För skidåkaren finns ett par toppturer i Dalarna beskrivna i  *Svenska Topptur
 * Anette Andersson, Johan Ranbrandt och Henrik Westling. Toppturer i Sverige.
 * Fredrik Hjelmstedt och Jonas Sundvall. Svenska Toppturer.
 
-## Västerbotten <i class="fa-solid fa-person-digging"></i>
+## Västerbotten
 
 * Anton Levein. Isklättring i Sverige.
 * Claes Grundsten. På fjälltur Vindelfjällen.
@@ -71,14 +71,14 @@ Ytterliggare en källa är Anton Leveins projekt [Isklättring i Sverige](https:
 
 För toppturer på skidor i Kebnekaise kan både *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*[^toppturer_i_sverige] och den något äldre *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*[^svenska_toppturer] rekommenderas. Ingen av dessa guider innehåller dock några turer i området som skulle kunna karaktäriseras som klätterturer.
 
-### Övriga områden i Norrbottensfjällen <i class="fa-solid fa-person-digging"></i>
+### Övriga områden i Norrbottensfjällen
 
 * Rick McGregor. *Ice Climbing in lapland*[^ice_climbing_in_lapland].
 * Anton Levein. Isklättring i Sverige.
 * Claes Grundsten. På fjälltur Padjelanta Sulitelma.
 * Claes Grundsten. På fjälltur Arjeplogsfjällen.
 
-## Historik <i class="fa-solid fa-person-digging"></i>
+## Historik
 
 * Ewa Hellström-Boström. Svensk klättring: Pionjärerna.
 * Tore Abrahamsson. Axel Hamberg och Sarek.
