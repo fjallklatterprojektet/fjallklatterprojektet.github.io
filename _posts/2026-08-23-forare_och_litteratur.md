@@ -3,7 +3,7 @@ layout: post
 title: Förare och litteratur
 author: Olle Eriksson
 date: 2026-08-23
-revised: 2026-10-21
+revised: 2026-10-23
 type: Bibliografi
 summary: Översikt över förare, litteratur och andra källor som berör svensk fjällklättring.
 ---
@@ -24,15 +24,15 @@ De mjukt rundade fjällen i Dalarna lämpar sig mer för vandring och skidåknin
 
 För skidåkaren finns ett par toppturer i Dalarna beskrivna i  *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*.[^svenska_toppturer]
 
-## Jämtland och Härjedalen
+## Jämtland och Härjedalen <i class="fa-solid fa-person-digging"></i>
 
-* Klätterförare över Jämtland. Finns delvis inskannad på [Östersunds Klätterklubbs hemsida](https://ostersundskk.se/klatterforare/){: .external}.
+* Klätterförare över Jämtland.[^klatterforare_over_jamtland] Finns delvis inskannad på [Östersunds Klätterklubbs hemsida](https://ostersundskk.se/klatterforare/){: .external}.
 * Anton Levein. Isklättring i Sverige.
-* Anette Andersson, Johan Ranbrandt, Martin Strömgren och Henrik Westling. Toppturer i Jämtland.
+* Anette Andersson, Johan Ranbrandt, Martin Strömgren och Henrik Westling. Toppturer i Jämtland.[^toppturer_i_jamtland]
 * Anette Andersson, Johan Ranbrandt och Henrik Westling. Toppturer i Sverige.
 * Fredrik Hjelmstedt och Jonas Sundvall. Svenska Toppturer.
 
-## Västerbotten
+## Västerbotten <i class="fa-solid fa-person-digging"></i>
 
 * Anton Levein. Isklättring i Sverige.
 * Claes Grundsten. På fjälltur Vindelfjällen.
@@ -45,7 +45,7 @@ För skidåkaren finns ett par toppturer i Dalarna beskrivna i  *Svenska Topptur
 
 Så vitt jag vet finns det ingen renodlad klätterförare för Sarek och Akka. Det finns däremot flera källor som tangerar ämnet.
 
-För en överblick över området (inklusive Akka) är Tore Abrahamssons klassiker *Detta är Sarek*[^detta_ar_sarek] en oumbärlig resurs. Här hittar man överskådliga förteckningar över toppar och klätterleder med datum för förstabestigningar, namn på förstabestigare samt referenser till turbeskrivningar, grupperade efter de olika fjällmassiven på ett lättbegripligt sätt. Rikligt med fotografier (inklusive flygfotografier) samt enastående massivkartor berikar och underlättar läsningen.
+För en överblick över området (inklusive Akka) är Tore Abrahamssons klassiker *Detta är Sarek*[^detta_ar_sarek] en oumbärlig resurs. Här hittar man överskådliga förteckningar över toppar och klätterleder med datum för förstabestigningar, namn på förstabestigare samt referenser till turskildringar, grupperade efter de olika fjällmassiven på ett lättbegripligt sätt. Rikligt med fotografier (inklusive flygfotografier) samt enastående massivkartor berikar och underlättar läsningen.
 
 En annan typ av överblick ges i Karl-Johan Piehls *Sarek: Vandring, löpning och klättring med lättviktspackning*[^sarek_vandring_lopning_och_klattring]. Klättringen får här stå tillbaka för vandringen och löpningen, men ett antal leder som innehåller moment av scrambling och klättring finns beskrivna i stor detalj, däribland klassiska utflykter som Pårtetraversen, Pierikpakte och diverse turer i Sarektjåkkåmassivet.
 
@@ -59,20 +59,26 @@ I topptursguiden *Toppturer i Sverige: Över 100 toppar och fler än 220 utförs
 
 ### Kebnekaise
 
-* Jon Moln Teike och Robin Andersson. Klättring i Kebnekaise.
-* Emmerich Rossipal. Kebnekajsefjällen: Bestigningsleder och vandringsturer jämte handledning i alpin teknik.
-* Tore Abrahamsson. Detta är Kebnekaise.
-* Anton Levein. Isklättring i Sverige.
-* Anette Andersson, Johan Ranbrandt och Henrik Westling. Toppturer i Sverige.
-* Fredrik Hjelmstedt och Jonas Sundvall. Svenska Toppturer.
+Kebnekaise är det område i den svenska fjällvärlden för vilket det är enklast att hitta information om klättring. Flera förare med olika karaktär och förtjänster finns att tillgå.
 
-### Övriga områden i Norrbottensfjällen
+Jon Moln Teikes och Robin Anderssons *Klättring i Kebnekaise*[^klattring_i_kebnekaise] är en modern förare som främst täcker Kebnekaisemassivet samt en del leder på fjäll i dess omedelbara närhet (såsom Liddopakte, Kaskasatjåkka och Kaskasapakte), det vill säga de leder som är relativt enkla att nå från Kebnekaise fjällstation och Tarfala (och som också får anses vara de mest populära lederna bland dagens klättrare). Även bouldering vid Kebnekaise fjällstation samt isklättring i området beskrivs. Detaljerade ledbeskrivningar, praktiska kartor samt inspirerande bilder och topos berikar läsningen.
 
+För en fin överblick över Kebnekaisefjällen rekommenderas Tore Abrahamssons *Detta är Kebnekaise*.[^detta_ar_kebnekaise] Lättöverskådliga kartor samt tydligt strukturerade listor över leder med datum för förstabestigningar, namn på förstabestigare samt kortfattade ledbrskrivningar och ibland även referenser till turskildringar, gör den till en mycket praktisk och användbar guide. Rikligt illustrerad med vackra och användbara bilder.
+
+Emmerich Rossipals *Kebnekajsefjällen: Bestigningsleder och vandringsturer jämte handledning i alpin teknik*[^kebnekajsefjallen] är betydligt äldre (från 1952) men fortfarande relevant, med detaljerade och tidstypiska ledbeskrivningar, rerferenser till turskildringar samt vackra och användara teckningar, kartor och diagram. Förutom klättringen i Kebnekaisemassivet täcker den fjällområdena i direkt anslutning norrut ändå upp till Påssustjåkka och Mårma. Föraren finns inskannad på Svenska Klätterförbundets hemsida under namnet *Kebförare: Beskrivningar av bestigningsleder i Kebnekaiseområdet, del 1* ([länk till inskannad version](https://www.klatterforbundet.se/app/uploads/2021/07/Kebnekaiseforare-del-1.pdf){: .external}). Där finner man även en komplettering av *Kebnekajsefjällen*, med leder klättrade efter 1952 (och t.o.m. 1986) som går under namnet *Kebförare: Beskrivningar av bestigningsleder i Kebnekaiseområdet, del 2*[^kebforare_del_2] ([länk här](https://www.klatterforbundet.se/app/uploads/2021/07/Kebnekaiseforare-del-2.pdf){: .external}).
+
+Ytterliggare en källa är Anton Leveins projekt [Isklättring i Sverige](https://iceclimbing.info/){: .external},[^isklattring_i_sverige] som förutom isklättring även beskriver många andra alpina turer i området.
+
+För toppturer på skidor i Kebnekaise kan både *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*[^toppturer_i_sverige] och den något äldre *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*[^svenska_toppturer] rekommenderas. Ingen av dessa guider innehåller dock några turer i området som skulle kunna karaktäriseras som klätterturer.
+
+### Övriga områden i Norrbottensfjällen <i class="fa-solid fa-person-digging"></i>
+
+* Rick McGregor. *Ice Climbing in lapland*[^ice_climbing_in_lapland].
 * Anton Levein. Isklättring i Sverige.
 * Claes Grundsten. På fjälltur Padjelanta Sulitelma.
 * Claes Grundsten. På fjälltur Arjeplogsfjällen.
 
-## Historik
+## Historik <i class="fa-solid fa-person-digging"></i>
 
 * Ewa Hellström-Boström. Svensk klättring: Pionjärerna.
 * Tore Abrahamsson. Axel Hamberg och Sarek.
@@ -100,3 +106,27 @@ I topptursguiden *Toppturer i Sverige: Över 100 toppar och fler än 220 utförs
 [^toppturer_i_sverige]: Anette Andersson, Johan Ranbrandt, Henrik Westling. (2024). *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*. Calazo.
 
 [^svenska_toppturer]: Fredrik Hjelmstedt, Jonas Sundvall. (2004). *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*. Calazo.
+
+[^klattring_i_kebnekaise]: Jon Moln Teike, Robin Andersson. (2019). *Klättring i Kebnekaise*. Svenska Klätterförbundet.
+
+[^kebnekajsefjallen]: Emmerich Rossipal. (1952). *Kebnekajsefjällen: Bestigningsleder och vandringsturer jämte handledning i alpin teknik*. Svenska Turistföreningen.
+
+    Finns inskannad på Svenska Klätterförbundets hemsida under namnet *Kebförare: Beskrivningar av bestigningsleder i Kebnekaiseområdet, Del 1*: [https://www.klatterforbundet.se/app/uploads/2021/07/Kebnekaiseforare-del-1.pdf](https://www.klatterforbundet.se/app/uploads/2021/07/Kebnekaiseforare-del-1.pdf){: .external}
+
+[^kebforare_del_2]: *Kebförare: Beskrivningar av bestigningsleder i Kebnekaiseområdet, del 2*. (1986). Svenska Klätterförbundet.
+
+    Denna förare är ett komplement till Emmerich Rossipals *Kebnekajsefjällen* (som finns inskannad under namnet *Kebförare: Beskrivningar av bestigningsleder i Kebnekaiseområdet, del 1*[^kebnekajsefjallen]) och är en sammanställning av nybestigningar efter 1952. Den finns inskannad på Svenska Klätterförbundets hemsida: [https://www.klatterforbundet.se/app/uploads/2021/07/Kebnekaiseforare-del-1.pdf](https://www.klatterforbundet.se/app/uploads/2021/07/Kebnekaiseforare-del-1.pdf){: .external}
+
+[^detta_ar_kebnekaise]: Tore Abrahamsson. (1987). *Detta är Kebnekaise*. Bonniers.
+
+    Finns även i en andra upplaga (1989).
+
+[^ice_climbing_in_lapland]: Rick McGregor. (2014). *Ice climbing in Lapland* (Rev. uppl.).
+
+    [Länk till pdf](https://kiwiclimber.se/iceclimbing/iceguide/iceguide.pdf){: .external}.
+
+[^klatterforare_over_jamtland]: Gudmund Söderin, Carl Wiström, Arne Nordin. (1992). *Klätterförare över Jämtland*.
+
+    Även kallad Jämtlandsföraren. Finns delvis inskannad på Östersunds Klätterklubbs hemsida: [https://ostersundskk.se/klatterforare/](https://ostersundskk.se/klatterforare/){: .external}.
+
+[^toppturer_i_jamtland]: Anette Andersson, Johan Ranbrandt, Martin Strömgren, Henrik Westling. (2019). *Toppturer i Jämtland: Fler än 100 toppar och 250 utförsåk från Borgafjäll i norr till Helags i söder*. Calazo.
