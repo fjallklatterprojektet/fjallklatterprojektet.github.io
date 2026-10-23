@@ -27,6 +27,18 @@
   "name": {{ site.title | jsonify }},
   "url": {{ site.url | jsonify }},
   "description": {{ site.description | jsonify }}
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author | default: site.author.name | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.logo | absolute_url | jsonify }}
+    }
+  }
   {% endif %}
 }
 </script>
