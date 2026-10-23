@@ -1,13 +1,25 @@
 
 function expandTags()
 {
-  document.getElementById('expandable_tags').style.display = 'inline';
-  document.getElementById("expand_tags_button").style.display = 'none';
+  const expandTagsButton = document.getElementById("expand_tags_button");
+  const expandableTags = document.getElementById("expandable_tags");
+
+  if (expandTagsButton)
+    expandTagsButton.style.display = 'none';
+  
+  if (expandableTags)
+    expandableTags.style.display = 'inline';
 }
 
 function setupExpandableTags()
 {
-  document.getElementById("expand_tags_button").style.display = "inline-block";
-  document.getElementById("expandable_tags").style.display = "none";
+  const expandTagsButton = document.getElementById("expand_tags_button");
+  const expandableTags = document.getElementById("expandable_tags");
+
+  if (expandTagsButton)
+    expandTagsButton.style.display = "inline-block";
+
+  if (expandableTags)
+    expandableTags.style.display = "none";
 }
 setupExpandableTags();
