@@ -291,29 +291,51 @@ span.archive_tags {
   background-color: var(--text-light-background-hover);
 }
 
-.header_links a {
+.social_bar_header {
+  display: flex;
+}
+
+.social_bar_header a {
   font-family: "Roboto Condensed", sans-serif;
   font-size: larger;
   color: var(--text);
 }
 
-.header_links a:hover {
+.social_bar_header a:hover {
   color: var(--text-link-hover);
 }
 
-.footer_links {
-  width: 100%;
-  text-align: right;
+footer {
+  display: flex;
+  padding-top: 0.2em;
 }
 
-.footer_links a {
+.social_bar_footer {
+  display: flex;
+  margin-left: auto; 
+}
+
+.social_bar_footer a {
   font-family: "Roboto Condensed", sans-serif;
   font-size: larger;
   color: var(--text);
 }
 
-.footer_links a:hover {
+.social_bar_footer a:hover {
   color: var(--text-link-hover);
+}
+
+.social_icon_link {
+  display: inline-flex;
+  align-items: center;
+}
+
+.social_icon {
+  width: 1.25em;
+  height: 1.25em;
+  margin: -0.1em;
+  display: inline-block;
+  fill: currentColor;
 }
 
 img {

@@ -8,7 +8,6 @@
     <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link rel="stylesheet" href="https://fonts.bunny.net/css?family=EB+Garamond:400,500,700,400i,500i,700i|Roboto+Condensed:400,500,700,400i,500i,700i&display=swap">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" href="/style.css">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
     <script src="/assets/js/expand_tags.js" defer></script>
@@ -22,12 +21,8 @@
         <a href="/om.html">Om</a>
         <a href="/in_english.html">In English</a>
       </span>
-      <span class="header_links">
-        <a href="http://instagram.com/_u/{{ site.instagram_username }}/" aria-label="Instagram"><i class="fa-brands fa-square-instagram"></i></a>
-        <a href="https://www.youtube.com/@Fj%C3%A4llkl%C3%A4tterprojektet" aria-label="YouTube"><i class="fa-brands fa-square-youtube"></i></a>
-        <a href="https://github.com/fjallklatterprojektet" aria-label="GitHub"><i class="fa-brands fa-square-github"></i></a>
-        <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fa fa-square-envelope"></i></a>
-        <a href="/feed.xml" aria-label="RSS"><i class="fa-solid fa-square-rss"></i></a>
+      <span class="social_bar_header">
+        {% include social_icons.html %}
       </span>
     </nav>
     <div id="page_wrapper">
@@ -81,13 +76,9 @@
       {{ content }}
       </main>
       <footer>
-        <nav class="footer_links">
-          <a href="http://instagram.com/_u/{{ site.instagram_username }}/" aria-label="Instagram"><i class="fa-brands fa-square-instagram"></i></a>
-          <a href="https://www.youtube.com/@Fj%C3%A4llkl%C3%A4tterprojektet" aria-label="YouTube"><i class="fa-brands fa-square-youtube"></i></a>
-          <a href="https://github.com/fjallklatterprojektet" aria-label="GitHub"><i class="fa-brands fa-square-github"></i></a>
-          <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fa fa-square-envelope"></i></a>
-          <a href="/feed.xml" aria-label="RSS"><i class="fa-solid fa-square-rss"></i></a>
-        </nav>
+        <span class="social_bar_footer">
+          {% include social_icons.html %}
+        </span>
       </footer>
     </div>
   </body>
