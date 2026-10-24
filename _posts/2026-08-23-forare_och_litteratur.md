@@ -3,7 +3,7 @@ layout: post
 title: Förare och litteratur
 author: Olle Eriksson
 date: 2026-08-23
-revised: 2026-10-23
+revised: 2026-10-24
 type: Bibliografi
 summary: Översikt över förare, litteratur och andra källor som berör svensk fjällklättring.
 ---
@@ -16,7 +16,7 @@ summary: Översikt över förare, litteratur och andra källor som berör svensk
 
 ## Inledning
 
-På denna sida har jag tänkt sammanställa en översikt över förare, litteratur och andra källor som berör klättring i alla dess former i hela den svenska fjällkedjan. Sidan är ett pågående arbete och kommer att kompletteras efter hand.
+På denna sida har jag tänkt sammanställa en grundlig översikt över förare, litteratur och andra källor som berör klättring i alla dess former i hela den svenska fjällkedjan, samt även närliggande ämnen såsom toppturer. Sidan är ett pågående arbete och kommer att kompletteras efter hand.
 
 ## Dalarna
 
@@ -31,11 +31,12 @@ För skidåkaren finns ett par toppturer i Dalarna beskrivna i  *Svenska Topptur
 * Anette Andersson, Johan Ranbrandt, Martin Strömgren och Henrik Westling. Toppturer i Jämtland.[^toppturer_i_jamtland]
 * Anette Andersson, Johan Ranbrandt och Henrik Westling. Toppturer i Sverige.
 * Fredrik Hjelmstedt och Jonas Sundvall. Svenska Toppturer.
+* *38 Turer i Sylan & Jämtlandsfjällen*.[^38_turer_i_sylan]
 
 ## Västerbotten
 
 * Anton Levein. Isklättring i Sverige.
-* Claes Grundsten. På fjälltur Vindelfjällen.
+* Claes Grundsten, *På fjälltur Vindelfjällen*.[^pa_fjalltur_vindelfjallen]
 * Anette Andersson, Johan Ranbrandt och Henrik Westling. Toppturer i Sverige.
 * Fredrik Hjelmstedt och Jonas Sundvall. Svenska Toppturer.
 
@@ -57,6 +58,8 @@ För toppturer i Sarek på vintern är *Sarek vinterguide: Toppturer och turskid
 
 I topptursguiden *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*[^toppturer_i_sverige] beskrivs bara en tur i Sarek, nämligen Stora Sarektraversen. Däremot beskrivs flera turer i angränsande Tarrekaise, Akka och Stora Sjöfallet, samtliga dock utan tekniska klättermoment. Den något äldre guiden *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*[^svenska_toppturer] utelämnar Sarek helt, men innehåller några turer i Akka och Stora Sjöfallet. Inte heller här beskrivs någon klättring i egentlig mening.
 
+* Claes Grundsten, *På fjälltur Sarek*.[^pa_fjalltur_sarek]
+
 ### Kebnekaise
 
 Kebnekaise är det område i den svenska fjällvärlden för vilket det är enklast att hitta information om klättring. Flera förare med olika karaktär och förtjänster finns att tillgå.
@@ -71,17 +74,23 @@ Ytterliggare en källa är Anton Leveins projekt [Isklättring i Sverige](https:
 
 För toppturer på skidor i Kebnekaise kan både *Toppturer i Sverige: Över 100 toppar och fler än 220 utförsåk från Riksgränsen i norr till Helags i söder*[^toppturer_i_sverige] och den något äldre *Svenska Toppturer: Över 150 turer i de Svenska fjällen — från Städjan i söder till Riksgränsen i norr*[^svenska_toppturer] rekommenderas. Ingen av dessa guider innehåller dock några turer i området som skulle kunna karaktäriseras som klätterturer.
 
+* Claes Grundsten, *På fjälltur Abisko Kebnekaise*.[^pa_fjalltur_abisko_kebnekaise]
+
 ### Övriga områden i Norrbottensfjällen
 
 * Rick McGregor. *Ice Climbing in lapland*[^ice_climbing_in_lapland].
 * Anton Levein. Isklättring i Sverige.
-* Claes Grundsten. På fjälltur Padjelanta Sulitelma.
-* Claes Grundsten. På fjälltur Arjeplogsfjällen.
+* Claes Grundsten, *På fjälltur Padjelanta Sulitelma*.[^pa_fjalltur_padjelanta_sulitelma]
+* Claes Grundsten, *På fjälltur Arjeplogsfjällen*.[^pa_fjalltur_arjeplogsfjallen]
 
 ## Historik
 
-* Ewa Hellström-Boström. Svensk klättring: Pionjärerna.
-* Tore Abrahamsson. Axel Hamberg och Sarek.
+* Ewa Hellström-Boström, *Svensk klättring: Pionjärerna*.[^svensk_klattring_pionjarerna]
+* Tore Abrahamsson. Axel Hamberg och Sarek.[^axel_hamberg_och_sarek]
+
+## Geologi och geografi
+
+* Gunnar Hoppe, *Fjällens terrängformer*.[^fjallens_terrangformer]
 
 ## Bibliografi
 
@@ -91,6 +100,8 @@ För toppturer på skidor i Kebnekaise kan både *Toppturer i Sverige: Över 100
 
 [^isklattring_i_sverige]: Anton Levein. [Isklättring i Sverige](https://iceclimbing.info/){: .external}.
 
+[^38_turer_i_sylan]: Asgeir Våg, Erik Stabell, Roar Nålsund, Per Christiansen, Jonny Remmereit. (2019). *38 turer i Sylan & Jämtlandsfjällen*. Trondhjems Turistforening.
+
 [^detta_ar_sarek]: Tore Abrahamsson. (1973). *Detta är Sarek* (1 uppl.). Rabén & Sjögren.
 
     Finns även i en andra (1982) och tredje (1993) upplaga, som är reviderade och kompletterade med nytillkommen information om bl.a. förstabestigningar.
@@ -99,7 +110,7 @@ För toppturer på skidor i Kebnekaise kan både *Toppturer i Sverige: Över 100
 
 [^sarekfjallen]: Axel Hamberg. (1922). *Sarekfjällen : Vägledning för färder i högfjällen mellan Lule älvs källarmar*. Wahlström & Widstrand.
 
-    Finns inskannad här: [http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf](http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf){: .external}.
+    Även kallad "Hambergs lilla röda". Finns inskannad här: [http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf](http://www.axelhamberg.se/pdf/Hamberg_Sarekfjallen1922.pdf){: .external}.
 
 [^sarek_vinterguide]: Joel Karlberg, Petter Lämås, Josef Larsson. (2010). *Sarek vinterguide: Toppturer och turskidåkning i Sareks nationalpark*. Calazo.
 
@@ -130,3 +141,29 @@ För toppturer på skidor i Kebnekaise kan både *Toppturer i Sverige: Över 100
     Även kallad Jämtlandsföraren. Finns delvis inskannad på Östersunds Klätterklubbs hemsida: [https://ostersundskk.se/klatterforare/](https://ostersundskk.se/klatterforare/){: .external}.
 
 [^toppturer_i_jamtland]: Anette Andersson, Johan Ranbrandt, Martin Strömgren, Henrik Westling. (2019). *Toppturer i Jämtland: Fler än 100 toppar och 250 utförsåk från Borgafjäll i norr till Helags i söder*. Calazo.
+
+[^svensk_klattring_pionjarerna]: Ewa Hellström-Boström. (1997). *Svensk klättring: Pionjärerna*. Alpina Förlaget.
+
+[^axel_hamberg_och_sarek]: Tore Abrahamsson. (2013). *Axel Hamberg och Sarek*. Västerbottens läns hembygdsförbund.
+
+[^pa_fjalltur_padjelanta_sulitelma]: Claes Grundsten. (2010). *På fjälltur: Padjelanta Sulitelma*. Nordstedts.
+
+    Finns i flera utgåvor. Finns även nyutgiven av Calazo i deras serie Fjällklassiker.
+
+[^pa_fjalltur_arjeplogsfjallen]: Claes Grundsten. (1999). *På fjälltur: Arjeplogsfjällen: Turbeskrivningar*. Prisma.
+
+    Finns i flera utgåvor. Finns även nyutgiven av Calazo i deras serie Fjällklassiker.
+
+[^pa_fjalltur_vindelfjallen]: Claes Grundsten. (1998). *På fjälltur: Vindelfjällen: turbeskrivningar*. Norstedts.
+
+    Finns i flera utgåvor. Finns även nyutgiven av Calazo i deras serie Fjällklassiker.
+
+[^pa_fjalltur_abisko_kebnekaise]: Claes Grundsten. (2010). *På fjälltur: Abisko Kebnekaise*. Norstedts.
+
+    Finns i flera utgåvor. Finns även nyutgiven av Calazo i deras serie Fjällklassiker.
+
+[^pa_fjalltur_sarek]: Claes Grundsten. (2010). *På fjälltur: Sarek*. Norstedts.
+
+    Finns i flera utgåvor. Finns även nyutgiven av Calazo i deras serie Fjällklassiker.
+
+[^fjallens_terrangformer]: Gunnar Hoppe, Ann-Cathrine Ulfstedt. (1983). *Fjällens terrängformer: En översikt av den svenska fjällkedjan på grundval av geomorfologisk kartering och naturvärdering*. Statens naturvårdsverk.
