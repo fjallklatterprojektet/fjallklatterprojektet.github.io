@@ -132,15 +132,15 @@ p {
   text-indent: 0em;
 }
 
-p a:link, ul#markdown-toc a:link {
+p a:link, ul:not(.post_list) a:link, ul#markdown-toc a:link {
   color: var(--text-link);
 }
 
-p a:visited, ul#markdown-toc a:visited {
+p a:visited, ul:not(.post_list) a:visited, ul#markdown-toc a:visited {
   color: var(--text-link);
 }
 
-p a:hover, ul#markdown-toc a:hover {
+p a:hover, ul:not(.post_list) a:hover, ul#markdown-toc a:hover {
   color: var(--text-link-hover);
   text-decoration: underline;
 }
